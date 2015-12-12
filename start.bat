@@ -1,0 +1,1 @@
+php -S 127.0.0.1:3000 -t ./www | tool\chrome\chrome.exe --incognito --lang=zh-CN --user-agent="123456" --user-data-dir="PortableProfile" http://127.0.0.1:3000
