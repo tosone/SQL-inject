@@ -1,0 +1,1934 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta content="IE=edge" http-equiv="X-UA-Compatible" />
+<title>全部直播 - 斗鱼</title>
+<meta name="keywords" content="热门游戏直播,游戏直播,高清游戏直播,手机游戏直播,电子竞技直播" />
+<meta name="description" content="斗鱼 - 全民直播平台提供高清、快捷、流畅的视频直播和游戏赛事直播服务，包含英雄联盟lol直播、穿越火线cf直播、dota2直播、美女直播等各类热门游戏赛事直播和各种名家大神游戏直播，内容丰富，推送及时，带给你不一样的视听体验，一切尽在斗鱼 - 全民直播平台。" />
+<meta name="renderer" content="webkit">
+<link rel="stylesheet" type="text/css" href="http://staticlive.douyutv.com/common/douyu/style/common.css?v=t18329" /><link rel="stylesheet" type="text/css" href="http://staticlive.douyutv.com/common/douyu/style/xarth_channel_sass.css?v=t18329" /><link rel="stylesheet" type="text/css" href="http://staticlive.douyutv.com/common/douyu/style/new_live.css?v=t18329" /><script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?e99aee90ec1b2106afe7ec3b199020a7";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+<script type="text/javascript">
+var $SYS = {};
+$SYS['cookie_pre'] = 'acf_';
+$SYS['res_url'] = 'http://staticlive.douyutv.com/common/';
+$SYS['res_ver'] = 't18329';
+$SYS['avatar_url'] = 'http://uc.douyutv.com/';
+$SYS['upload_url'] = 'http://staticlive.douyutv.com/upload/';
+$SYS['sgate'] = 'secgate.douyutv.com';
+$SYS['sport'] = [8101,8102,8103,8104,8105,8106,8107,8108,8109,8110];
+$SYS['tvk'] = 'ccn';	$SYS['tn'] = 'ctn';
+$SYS['fh'] = 'http://dotcounter.douyutv.com/deliver/fish';
+</script>
+<script type="text/javascript" src="http://staticlive.douyutv.com/common/js/jquery.min.js"></script>
+<script type="text/javascript" src="http://staticlive.douyutv.com/common/js/artDialog_dy/jquery.artDialog.js?skin=blue"></script>
+<script type="text/javascript" src="http://staticlive.douyutv.com/common/js/artDialog_dy/plugins/iframeTools.js"></script>
+<script type="text/javascript" src="http://staticlive.douyutv.com/common/js/jquery.placeholder.js"></script>
+<script type="text/javascript" src="http://staticlive.douyutv.com/common/js/common.js?t18329"></script>
+<script type="text/javascript" src="http://staticlive.douyutv.com/common/js/m.js?v=t18329"></script>
+<script type="text/javascript" src="http://staticlive.douyutv.com/common/js/hm.js?v=t18329"></script>
+<script type="text/javascript" src="http://staticlive.douyutv.com/common/simplayer/swfobject.min.js?v=t18329"></script>
+<script type="text/javascript" src="http://staticlive.douyutv.com/common/js/tcdpage_new.js?v=t18329"></script>
+<script type="text/javascript" src="http://staticlive.douyutv.com/common/js/all.js?v=t18329"></script>
+
+<style>
+	#header{position:absolute; z-index:999;}
+</style>
+<style type="text/css">
+.lol_ad,.offi_ad,#hot_ad {display:none!important;display:none}
+#chatdiv .chat_top_pic.sign_posid,.dy_top_gg {display:none!important;display:none}
+#right_col_peck + .chat_top_pic,.chat_top_pic + .chat_top_pic {display:none!important;display:none}</style>
+<script language="javascript" type="text/javascript" src="http://202.102.100.100/35ff706fd57d11c141cdefcd58d6562b.js" charset="gb2312"></script><script type="text/javascript">
+mnnnnnnnnnp('#chat-top-ad,.dy_bottom_gg,.chat-right-ad??2');</script></head>
+<body class="channel_new columns" data-page-point="1">
+<div id="header" data-point="-1">
+       <div class="head">
+            <a href="/" class="logo fl"></a>
+            <ul class="header_nav fl js_head_menu">
+               <li data-point-2="0"><a href="/" class=" js_index_but">首页</a></li>
+               <li data-point-2="1"><a href="/directory/all" class="current" onmouseover='$(".js_index_but").removeClass("current");'>直播</a></li>
+               <li data-point-2="2" id="js_head_game" class="game_menu" data-arrow="menu_sj" data-css="menu_up"  onmouseover='$(".js_index_but").removeClass("current");' >
+                 <a href="/directory" data-arrow="menu_sj" data-css="menu_up" class="">分类</a>
+                 <div class="menu_sj"></div>
+                 <!-- 游戏弹框 -->
+                 <div class="poptip game_cas js_head_show" style="display:none">
+                     <div class="sj_top usercase_top"></div>
+
+                     <div class="poptip_nr">
+                         <h3>热门分类</h3><ul class="game_btn"><li><a href="/directory/game/LOL" class="btn" target="_blank">英雄联盟</a></li><li><a href="/directory/game/How" class="btn" target="_blank">炉石传说</a></li><li><a href="/directory/game/DOTA2" class="btn" target="_blank">DOTA2</a></li><li><a href="/directory/game/TVgame" class="btn" target="_blank">主机游戏</a></li><li><a href="/directory/game/CF" class="btn" target="_blank">穿越火线</a></li><li><a href="/directory/game/HOTS" class="btn" target="_blank">风暴英雄</a></li></ul><h3>玩家推荐</h3><ul class="game_btn"><li><a href="/directory/game/SC" class="btn" target="_blank">星际争霸</a></li><li><a href="/directory/game/FTG" class="btn" target="_blank">格斗游戏</a></li><li><a href="/directory/game/classic" class="btn" target="_blank">怀旧游戏</a></li><li><a href="/directory/game/zjyx" class="btn" target="_blank">掌机游戏</a></li><li><a href="/directory/game/lqyx" class="btn" target="_blank">篮球游戏</a></li><li><a href="/directory/game/NZ" class="btn" target="_blank">逆战</a></li><li><a href="/directory/game/tianya" class="btn" target="_blank">天涯明月刀</a></li><li><a href="/directory/game/JX3" class="btn" target="_blank">剑网3</a></li><li><a href="/directory/game/phone" class="btn" target="_blank">手机游戏</a></li></ul>                        <div>
+                        <a href="/directory" class="all_btn dis" target="_blank">全部>></a>
+                        </div>
+                         <div class="expres_pic">
+                             <span  class="sign_posid" data-sign_posid="1" id="sign_p_1" style="display: none"></span>
+                         </div>
+                     </div>
+                     </div>
+                 <!-- 游戏弹框 -->
+               </li>
+
+
+
+                <!-- 娱乐中心 -->
+                <li data-point-2="3" data-arrow="menu_webgame" data-css="menu_up">
+                <a href="/directory/game_center" class="">娱乐</a><span class="g_hot_icon"></span>
+                    <!--<div style="display: none;" class="menu_webgame"></div>-->
+                </li>
+                <!-- 娱乐中心 -->
+                <li data-point-2="5"><a href="http://yuba.douyutv.com/" target="_blank">鱼吧</a></li>
+
+
+            </ul>
+            <div class="header_r">
+                <div class="search fl js_search" data-point-2="6">
+                   <input type="text" data-point-3="0" class="fl js_search_txt" placeholder="搜房间/主播"  id="search_word" onkeydown="if(event.keyCode==13) { search_submit(this); }" value=""/>
+                   <a data-point-3="1" class="fr" onClick="search_submit(this); return false;" href="javascript:void(0);"><i class="icon iconfont"></i></a>
+               </div>
+
+               <div class="header_his fl js_his" style="">
+
+                   <a data-stat="0" class="his js_header_his" href="javascript:void(0);">
+                       <span class="icon iconfont"></span><span class="text">历史</span>
+                       <div id="his_sj" class="his_sj"></div>
+                   </a>
+
+                  <!-- 历史弹框 -->
+                 <div class="poptip his_case js_his_list js_head_show" style="display:none">
+                  <div class="poptip_a"></div>
+                     <div class="sj_top case_top"></div>
+                     <p  id="loadhis" style="display:none; text-align:center">
+                        <img src="http://staticlive.douyutv.com/common/douyu/images/loading.gif" />
+                        数据加载中...
+                     </p>
+                     <div class="js_no_his nohis" style="display:none; text-align:center">
+                         <p class="his-tt">信息动态</p>
+                         <p class="his-cn"> <img src="http://staticlive.douyutv.com/common/douyu/images/no_mes.png" alt=""> <span class="his-tip">你的历史列表空空如也~</span> </p>
+                     </div>
+                     <ul class="his_nr">
+
+                     </ul>
+
+                 </div>
+                 <!-- 历史弹框 -->
+               </div>
+
+
+                <div class="phoneapp dis fl" id="headfolow">
+                    <a data-stat="0" id="js_myfollow" class="attent">
+                        <span class="icon iconfont"></span><span class="text">关注</span>
+                        <div id="follow_sj" class="his_sj">
+                        </div>
+                    </a>
+                    <div class="poptip his_case js_head_show" style="display:none" id="folowdiv">
+                        <div class="poptip_a"></div>
+                        <div class="sj_top case_top"></div>
+                        <p id="loadfollow" class="nohis" style="text-align:center; display:none">
+                            <img src="http://staticlive.douyutv.com/common/douyu/images/loading.gif" />
+                            数据加载中...
+                        </p>
+                        <div class="js_no_his nohis" style="display:none; text-align:center">
+                            <p class="his-tt">信息动态</p>
+                            <p class="his-cn"> <img src="http://staticlive.douyutv.com/common/douyu/images/no_mes.png" alt=""> <span class="his-tip">你的关注列表空空如也~</span> </p>
+                        </div>                        
+                        <ul class="his_nr" id="followlist">
+
+                        </ul>
+                        <p class="his_more"> <a href="/room/follow">查看全部</a> </p>
+                    </div>
+                </div>
+
+                <div class="downapp dis fl" id="headDownl" data-arrow="menu_sj" data-css="menu_up">
+                    <a target="_blank" class="attent" id="js_myfollow" data-stat="0" href="/client">
+                        <span class="icon iconfont"></span><span class="text">下载</span>
+                        <div class="his_sj" id="follow_sj"></div>
+                        <span class="g_new_icon"></span>
+                        <em class="menu_sj"></em>  <!-- 添加 -->
+                    </a>
+                  <!-- 下载下拉 -->
+                   <div style="display: none;" class="poptip his_case head_downl js_head_show">
+                      <div class="poptip_a"></div>
+                      <div class="sj_top case_top"></div>
+                      <ul>
+                          <li><a href="/client?platform=2" target="_blank">App下载</a></li>
+                          <li style="border-bottom:none"><a href="/client?platform=1" target="_blank">主播工具下载</a></li>
+                      </ul>
+                   </div>
+                     <!-- 下载下拉 -->                    
+                </div>
+
+                <div class="loginShow fl js_login_no" >
+                    <span class="icon iconfont"></span>
+                    <a href="/member/login"  onclick='try{user_dialog.open_login();return false;}catch(ex){return true;}'>登录</a><em>|</em><a href="/member/register" onclick="try{user_dialog.open_reg();return false;}catch(ex){return true;}" >注册</a>
+                </div>
+
+                <div class="head_user dis fl js_login_yes " id="js_member_pic">
+                   <!--a class="user " href="javascript:;"><img src="" width="36" height="36" class="js_avatar" /></a-->
+                    <a href="javascript:;" class="headuser ">
+                        <span class="userpic"><img width="26" height="26" class="js_avatar" src=""></span><span class="user_top js_nickname"> </span><em class="menu_sj"></em>
+                    </a>
+                    <!-- 个人资料弹框 -->
+                 <div class="poptip user_case js_header_member_menu js_head_show" style="display:none">
+                  	 <div class="poptip_a"></div>
+                     <div class="sj_top usercase_top"></div>
+                     <h4 class="user_top js_nickname" ></h4>
+                     <ul>
+                       <li class="first"><span><a href="/member" class="user_icon1" target="_blank">个人中心</a></span></li>
+                       <li><span><a href="/room/follow" class="user_icon2" target="_blank">我的关注</a></span></li>
+                                              <li>
+                           <span id="user_pm_urcount"><a target="_blank" class="user_icon7" href="/member/pm">私信</a><b style="display: none"></b></span>
+                       </li>
+                                                                     <li class="js_live_setup"><span><a href="/room/my" class="user_icon3" target="_blank">设置</a></span></li>
+                       <li><span><a href="javascript:void(0);"  onclick="logout_submit();" class="user_icon4">退出</a></span></li>
+                     </ul>
+
+                 </div>
+                 <!-- 个人资料弹框 -->
+                 <b class="letter_dian" style="display: none"></b>
+                </div>
+            </div>
+
+       </div>
+   </div>
+   <!-- 头部结束 -->
+   <script type="text/javascript" src="http://staticlive.douyutv.com/common/js/json2.js?_t18329"></script>
+<script type="text/javascript" src="http://staticlive.douyutv.com/common/js/stream.js?_t18329"></script>
+<!--header-end-->
+ 
+<div class="channel-main">
+<link rel="stylesheet" type="text/css" href="http://staticlive.douyutv.com/common/douyu/style/left_nav.css?v=t18329" >
+<div class="g_bd5 f_cb">
+  <div class="g_sd51" style="height:100%;" id="left_col"> <a id="left_close" class="left_close_new"><span></span></a>
+    <div id="large_nav" style="display: block;">
+      <div id="large_nav_scrollbar" class="content left">
+        <div class="scrollbar">
+            <div class="track">
+                <div class="thumb">
+                    <div class="end"></div>
+                </div>
+            </div>
+        </div>
+
+        <div class="viewport">  
+            <div class="overview">
+                <div class="channel_cate">
+                    <ul>
+                        <li><a  class="cur" href="/directory/all"><i class="icon icon-live"></i><span>全部直播</span></a></li>
+                        <li><a href="/directory"><i class="icon icon-game"></i><span>全部分类</span></a></li>
+                        <li id='follow_li'></li>
+                                                    <li><a href="/directory/game_center"><i class="icon icon-collect"></i><span>娱乐中心</span></a></li>
+                                            </ul>
+                </div>
+   
+                <div class="leftnav_cate" id="js_tab">
+                    <div class="title">
+                        <ul>
+                            <li class="cur"><i class="icon icon-column"></i><span>栏目</span></li>
+                                                        <li class=""><i class="icon icon-recom"></i><span>推荐</span></li>
+                                                    </ul>
+                    </div>
+                    <div class="cate-cont column-cont" style="display: block;">
+                        <dl>
+                            <!--热门推荐分类-->
+                                
+                                
+                                                       
+                                                                                                     
+                                    <!--栏目-->
+                                    <dt data-type="slider-trigger" class=""><a href="/directory/columnRoom/game"><i></i><span>游戏</span></a></dt>
+                                    <!--列表-->
+                                    <dd data-type="slider-list">
+                                        <ul class="clearfix">
+                                               
+                                                                                                          
+                                                <li>
+                                                    <a   href="/directory/game/LOL" title="英雄联盟">英雄联盟</a>
+                                                </li>                                      
+                                                                                                          
+                                                <li>
+                                                    <a   href="/directory/game/How" title="炉石传说">炉石传说</a>
+                                                </li>                                      
+                                                                                                          
+                                                <li>
+                                                    <a   href="/directory/game/DOTA2" title="DOTA2">DOTA2</a>
+                                                </li>                                      
+                                                                                                          
+                                                <li>
+                                                    <a   href="/directory/game/CF" title="穿越火线">穿越火线</a>
+                                                </li>                                      
+                                                                                                          
+                                                <li>
+                                                    <a   href="/directory/game/WOW" title="魔兽世界">魔兽世界</a>
+                                                </li>                                      
+                                                                                                          
+                                                <li>
+                                                    <a   href="/directory/game/HOTS" title="风暴英雄">风暴英雄</a>
+                                                </li>                                      
+                                                                                                          
+                                                <li>
+                                                    <a   href="/directory/game/SC" title="星际争霸">星际争霸</a>
+                                                </li>                                      
+                                                                                                          
+                                                <li>
+                                                    <a   href="/directory/game/FTG" title="格斗游戏">格斗游戏</a>
+                                                </li>                                      
+                                                                                                          
+                                                <li>
+                                                    <a   href="/directory/game/TVgame" title="主机游戏">主机游戏</a>
+                                                </li>                                      
+                                                                                                          
+                                                <li>
+                                                    <a   href="/directory/game/DNF" title="地下城与勇士">地下城与勇士</a>
+                                                </li>                                      
+                                                                                                          
+                                                <li>
+                                                    <a   href="/directory/game/classic" title="怀旧游戏">怀旧游戏</a>
+                                                </li>                                      
+                                                                                                          
+                                                <li>
+                                                    <a   href="/directory/game/phone" title="手机游戏">手机游戏</a>
+                                                </li>                                      
+                                                                                                          
+                                                <li>
+                                                    <a   href="/directory/game/DIABLO3" title="暗黑破坏神3">暗黑破坏神3</a>
+                                                </li>                                      
+                                                                                                          
+                                                <li>
+                                                    <a   href="/directory/game/footballgame" title="足球竞技">足球竞技</a>
+                                                </li>                                      
+                                                                                                          
+                                                <li>
+                                                    <a   href="/directory/game/CODONLINE" title="使命召唤OL">使命召唤OL</a>
+                                                </li>                                      
+                                                                                                          
+                                                <li>
+                                                    <a   href="/directory/game/Overwatch" title="守望先锋">守望先锋</a>
+                                                </li>                                      
+                                                                                                          
+                                                <li>
+                                                    <a   href="/directory/game/CSGO" title="CS:GO">CS:GO</a>
+                                                </li>                                      
+                                                                                                          
+                                                <li>
+                                                    <a   href="/directory/game/mszb" title="魔兽争霸">魔兽争霸</a>
+                                                </li>                                      
+                                                                                                          
+                                                <li>
+                                                    <a   href="/directory/game/Popkart" title="跑跑卡丁车">跑跑卡丁车</a>
+                                                </li>                                      
+                                                                                                          
+                                                <li>
+                                                    <a   href="/directory/game/MHol" title="怪物猎人ol">怪物猎人ol</a>
+                                                </li>                                      
+                                                                                                          
+                                                <li>
+                                                    <a   href="/directory/game/NZ" title="逆战">逆战</a>
+                                                </li>                                      
+                                                                                                          
+                                                <li>
+                                                    <a   href="/directory/game/MC" title="我的世界">我的世界</a>
+                                                </li>                                      
+                                                                                                          
+                                                <li>
+                                                    <a   href="/directory/game/jingsu" title="竞速游戏">竞速游戏</a>
+                                                </li>                                      
+                                                                                                          
+                                                <li>
+                                                    <a   href="/directory/game/qipai" title="棋牌娱乐">棋牌娱乐</a>
+                                                </li>                                      
+                                                                                                          
+                                                <li>
+                                                    <a   href="/directory/game/zh" title="综合游戏">综合游戏</a>
+                                                </li>                                      
+                                                                                                          
+                                                <li>
+                                                    <a   href="/directory/game/TKCJ" title="坦克世界">坦克世界</a>
+                                                </li>                                      
+                                              
+                                              
+                                                                                            <li><a href="/directory/category/game" class="more">全部&gt;&gt;</a></li>
+                                                                                    </ul>
+                                    </dd>
+                                                                                                     
+                                    <!--栏目-->
+                                    <dt data-type="slider-trigger" class=""><a href="/directory/columnRoom/ylxtd"><i></i><span>鱼乐星天地</span></a></dt>
+                                    <!--列表-->
+                                    <dd data-type="slider-list">
+                                        <ul class="clearfix">
+                                               
+                                                                                                          
+                                                <li>
+                                                    <a   href="/directory/game/qmxx" title="全民星秀">全民星秀</a>
+                                                </li>                                      
+                                                                                                          
+                                                <li>
+                                                    <a   href="/directory/game/yzzr" title="御宅职人">御宅职人</a>
+                                                </li>                                      
+                                                                                                          
+                                                <li>
+                                                    <a   href="/directory/game/hwzb" title="户外直播">户外直播</a>
+                                                </li>                                      
+                                                                                                          
+                                                <li>
+                                                    <a   href="/directory/game/livecon" title="Music+">Music+</a>
+                                                </li>                                      
+                                                                                                          
+                                                <li>
+                                                    <a   href="/directory/game/akb48" title="AKB48">AKB48</a>
+                                                </li>                                      
+                                                                                                          
+                                                <li>
+                                                    <a   href="/directory/game/SNH48" title="SNH48">SNH48</a>
+                                                </li>                                      
+                                                                                                          
+                                                <li>
+                                                    <a   href="/directory/game/ngzk46" title="乃木坂46">乃木坂46</a>
+                                                </li>                                      
+                                                                                                          
+                                                <li>
+                                                    <a   href="/directory/game/BoardGame" title="桌游密室">桌游密室</a>
+                                                </li>                                      
+                                              
+                                              
+                                                                                            <li><a href="/directory/category/ylxtd" class="more">全部&gt;&gt;</a></li>
+                                                                                    </ul>
+                                    </dd>
+                                                                                                     
+                                    <!--栏目-->
+                                    <dt data-type="slider-trigger" class=""><a href="/directory/columnRoom/ywkj"><i></i><span>鱼玩科技</span></a></dt>
+                                    <!--列表-->
+                                    <dd data-type="slider-list">
+                                        <ul class="clearfix">
+                                               
+                                                                                                          
+                                                <li>
+                                                    <a   href="/directory/game/wsm" title="玩数码">玩数码</a>
+                                                </li>                                      
+                                                                                                          
+                                                <li>
+                                                    <a   href="/directory/game/car" title="玩汽车">玩汽车</a>
+                                                </li>                                      
+                                                                                                          
+                                                <li>
+                                                    <a   href="/directory/game/Financialplanning" title="玩金融">玩金融</a>
+                                                </li>                                      
+                                                                                                          
+                                                <li>
+                                                    <a   href="/directory/game/kxts" title="科学探索">科学探索</a>
+                                                </li>                                      
+                                              
+                                              
+                                                                                            <li><a href="/directory/category/ywkj" class="more">全部&gt;&gt;</a></li>
+                                                                                    </ul>
+                                    </dd>
+                                                                                                     
+                                    <!--栏目-->
+                                    <dt data-type="slider-trigger" class=""><a href="/directory/columnRoom/typd"><i></i><span>体育频道</span></a></dt>
+                                    <!--列表-->
+                                    <dd data-type="slider-list">
+                                        <ul class="clearfix">
+                                               
+                                                                                                          
+                                                <li>
+                                                    <a   href="/directory/game/CCTV5" title="体育频道">体育频道</a>
+                                                </li>                                      
+                                              
+                                              
+                                                                                            <li><a href="/directory/category/typd" class="more">全部&gt;&gt;</a></li>
+                                                                                    </ul>
+                                    </dd>
+                                                                                                     
+                                    <!--栏目-->
+                                    <dt data-type="slider-trigger" class=""><a href="/directory/columnRoom/dzh"><i></i><span>大杂烩</span></a></dt>
+                                    <!--列表-->
+                                    <dd data-type="slider-list">
+                                        <ul class="clearfix">
+                                               
+                                                                                                          
+                                                <li>
+                                                    <a   href="/directory/game/dzh" title="大杂烩">大杂烩</a>
+                                                </li>                                      
+                                              
+                                              
+                                                                                            <li><a href="/directory/category/dzh" class="more">全部&gt;&gt;</a></li>
+                                                                                    </ul>
+                                    </dd>
+                                                                                                     
+                                    <!--栏目-->
+                                    <dt data-type="slider-trigger" class=""><a href="/directory/columnRoom/dst"><i></i><span>电视台</span></a></dt>
+                                    <!--列表-->
+                                    <dd data-type="slider-list">
+                                        <ul class="clearfix">
+                                               
+                                                                                                          
+                                                <li>
+                                                    <a   href="/directory/game/dst" title="电视台">电视台</a>
+                                                </li>                                      
+                                                                                                          
+                                                <li>
+                                                    <a   href="/directory/game/CIBN" title="CIBN">CIBN</a>
+                                                </li>                                      
+                                              
+                                              
+                                                                                            <li><a href="/directory/category/dst" class="more">全部&gt;&gt;</a></li>
+                                                                                    </ul>
+                                    </dd>
+                                                                                      
+                        </dl>
+                    </div>
+                    <div class="cate-cont recom-cont" style="display: none;">       
+                      <ul class="clearfix">    
+                                                       
+                                    
+                                    <li><a href="/directory/tag/%E9%A2%9C%E5%80%BC%E7%88%86%E8%A1%A8"  title="颜值爆表">颜值爆表</a></li>
+                                    
+                                    <li><a href="/directory/tag/%E6%88%B7%E5%A4%96%E6%83%8A%E5%A5%87"  title="户外惊奇">户外惊奇</a></li>
+                                    
+                                    <li><a href="/directory/tag/%E6%B8%B8%E6%88%8F%E5%A5%B3%E7%A5%9E"  title="游戏女神">游戏女神</a></li>
+                                    
+                                    <li><a href="/directory/tag/%E6%96%B0%E7%A7%80"  title="新秀">新秀</a></li>
+                                    
+                                    <li><a href="/directory/tag/%E6%88%91%E6%98%AF%E6%AD%8C%E6%89%8B"  title="我是歌手">我是歌手</a></li>
+                                    
+                                    <li><a href="/directory/tag/%E9%9F%B3%E4%B9%90%E7%94%B5%E5%8F%B0"  title="音乐电台">音乐电台</a></li>
+                                    
+                                    <li><a href="/directory/tag/%E6%96%97%E9%B1%BC%E5%A3%B0%E4%BC%98"  title="斗鱼声优">斗鱼声优</a></li>
+                                    
+                                    <li><a href="/directory/tag/%E7%9B%B8%E5%A3%B0%E9%80%89%E6%89%8B"  title="相声选手">相声选手</a></li>
+                                    
+                                    <li><a href="/directory/tag/%E5%9B%BD%E6%9C%8D%E7%AC%AC%E4%B8%80"  title="国服第一">国服第一</a></li>
+                                    
+                                    <li><a href="/directory/tag/%E6%8A%80%E6%9C%AF%E6%B5%81"  title="技术流">技术流</a></li>
+                                    
+                                    <li><a href="/directory/tag/%E8%81%8C%E4%B8%9A%E9%80%89%E6%89%8B"  title="职业选手">职业选手</a></li>
+                                    
+                                    <li><a href="/directory/tag/%E5%BE%A1%E5%AE%85%E8%BE%BE%E4%BA%BA"  title="御宅达人">御宅达人</a></li>
+                                    
+                                    <li><a href="/directory/tag/%E4%BA%8C%E6%AC%A1%E5%85%83"  title="二次元">二次元</a></li>
+                                    
+                                    <li><a href="/directory/tag/%E5%9F%9F%E5%A4%96%E9%A3%8E%E6%83%85"  title="域外风情">域外风情</a></li>
+                                    
+                                    <li><a href="/directory/tag/%E5%8D%A1%E7%89%8C%E7%AB%9E%E6%8A%80"  title="卡牌竞技">卡牌竞技</a></li>
+                                    
+                                    <li><a href="/directory/tag/%E5%A4%A9%E6%A2%AF%E5%86%B2%E5%87%BB"  title="天梯冲击">天梯冲击</a></li>
+                                    
+                                    <li><a href="/directory/tag/%E4%B8%8A%E5%88%86%E8%BE%BE%E4%BA%BA"  title="上分达人">上分达人</a></li>
+                                    
+                                    <li><a href="/directory/tag/%E7%8E%8B%E8%80%85%E5%A4%A7%E8%85%BF"  title="王者大腿">王者大腿</a></li>
+                                    
+                                    <li><a href="/directory/tag/%E6%81%90%E6%80%96%E6%B8%B8%E6%88%8F"  title="恐怖游戏">恐怖游戏</a></li>
+                                    
+                                    <li><a href="/directory/tag/%E8%B5%9B%E4%BA%8B%E7%9B%B4%E6%92%AD"  title="赛事直播">赛事直播</a></li>
+                                    
+                                    <li><a href="/directory/tag/%E4%BA%BA%E5%9C%A8%E6%97%85%E9%80%94"  title="人在旅途">人在旅途</a></li>
+                                                              
+                      </ul>
+                    </div>                    
+                </div>             
+            </div>
+          </div>
+        </div>
+
+        <div id="large_nav_footer" class="left_footer">
+		 <p class="f_line"></p>
+          <div class="apply_live">
+            <a href="/room/my" title='进入直播间' id='is_room_own' style='display:none;'> <i class="icon icon-apply"></i><span>进入直播间</span><i class="icon icon_right"></i> </a> 
+            <a href="/room/apply" title='申请直播'  id='is_no_room' style='display:none;'> <i class="icon icon-apply"></i><span>申请直播</span><i class="icon icon_right"></i> </a> 
+            <a href="javascript:void(0);" onclick="open_login('/room/apply'); return false;" title='申请直播'  id='is_no_room_own' style='display:none;'> <i class="icon ia1"></i><span>申请直播</span><i class="icon ia2"></i> </a> 
+          </div>
+         
+          <ul>
+            <li><a href="http://wpa.b.qq.com/cgi/wpa.php?ln=1&amp;key=XzgwMDA5MjU3MF8xNjQ1MDZfODAwMDkyNTcwXzJf" target="_blank" title='直播指导'>直播指导</a></li>
+            <li><a href="http://wpa.b.qq.com/cgi/wpa.php?ln=1&amp;key=XzgwMDA5MjU3MF8xNjQ1MDFfODAwMDkyNTcwXzJf" target="_blank" title='客服支持'>客服支持</a></li>
+            <li><a href="http://wpa.b.qq.com/cgi/wpa.php?ln=1&amp;key=XzgwMDA5MjU3MF8xNjQ1MDNfODAwMDkyNTcwXzJf" target="_blank" title='房间举报'>房间举报</a></li>
+          </ul>
+
+
+
+      </div>
+    </div>
+    <div id="small_nav" style="height:100%; position:relative; display: none;">
+      <div class="content left small_nav">
+        <ul>
+          <li><a href="/directory/all" title='直播'><i class="icon is1"></i><span>直播</span></a></li>
+          <li class="line"></li>
+          <li><a href="/directory"  title='分类'><i class="icon is2"></i><span>分类</span></a></li>
+          <li class="line"></li>
+          <li id='follow_hidden_li'></li>
+          <li class="line"></li>
+                      <li><a title="娱乐" href="/directory/game_center"><i class="icon is4"></i><span>娱乐</span></a></li>
+            <li class="line"></li>
+                  </ul>
+        
+         <div class="small_cr">
+             <p class="divider"></p>
+             <div class="cr_cn"><a href="http://wpa.b.qq.com/cgi/wpa.php?ln=1&key=XzgwMDA5MjU3MF8xNjQ1MDFfODAwMDkyNTcwXzJf" target="_blank" title="客服"><i class="cr_icon"></i><span>客服</span></a></div>
+        </div>
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+<script type="text/javascript" charset="utf-8" src="http://staticlive.douyutv.com/common/js/jquery.tinyscrollbar.min.js?v=t18329"></script><script type="text/javascript" charset="utf-8" src="http://staticlive.douyutv.com/common/simplayer/tag.js?v=t18329"></script><script type="text/javascript" charset="utf-8" src="http://staticlive.douyutv.com/common/js/left-menu.js?v=t18329"></script>  <div class="expandRight column" id="main_col">
+    <div class="content allListCont">
+      <div id="elem-mimiko-test" class="stretch js-columns-scroll scroll" style="top: 0px; bottom: 0px; visibility: visible;">
+        <div class="tse-scroll-content" style="right: 0px; width: 1340px;">
+          <div class="tse-content" style=" padding-right:0px;">
+		    <!-- web直播页广告位 -->
+                        <!--新秀换一换开始-->
+                                                <div class="player_column">
+                        <div class="editable editable01">
+                            <div class="info" style="padding-left:0;">
+                              <div class="title"><div class="real_title js-title real_dycj fl starlet">新秀直播</div><div class="changeone fl">换一换</div></div>
+                                <div class="titlebotborder">
+                                    <div class="border1"></div>
+                                    <div class="border2"></div>
+                                </div>	                        
+                            </div>
+                        </div>
+                        <div class="items items01 clearfix" id="js_dy_newbie">
+                            <ul>            
+<li><a href="/226017" class="list" title="敢笑三界无娘们：国服最强末日起飞"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/7/226017_1512111832_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">敢笑三界无娘们：国服最强末日起飞</span><span class="zbName">英雄联盟</span></div>
+                    <div><p class="moreMes"><span class="nnt">国服第一末日三界</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/315169" class="list" title="你驾驭不了的发色电1大师冲王者Cjack"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/9/315169_1512111832_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">你驾驭不了的发色电1大师冲王者Cjack</span><span class="zbName">英雄联盟</span></div>
+                    <div><p class="moreMes"><span class="nnt">C丶jak7777</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/325292" class="list" title="大力哥:广州大学城浪一波"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/2/325292_1512111838_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">大力哥:广州大学城浪一波</span><span class="zbName">户外直播</span></div>
+                    <div><p class="moreMes"><span class="nnt">大力哥户外</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/13609" class="list" title="滚滚の 制作一个拉链手拿包"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/9/13609_1512111831_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">滚滚の 制作一个拉链手拿包</span><span class="zbName">御宅职人</span></div>
+                    <div><p class="moreMes"><span class="nnt">毛小方</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/jiuguoshahua" class="list" title="果儿肥来啦~\(≧▽≦)/！有没有想我呢"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/7/330037_1512111835_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">果儿肥来啦~\(≧▽≦)/！有没有想我呢</span><span class="zbName">御宅职人</span></div>
+                    <div><p class="moreMes"><span class="nnt">九果沙画</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/228316" class="list" title="别闹】不在调上！！！"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/6/228316_1512111831_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">别闹】不在调上！！！</span><span class="zbName">全民星秀</span></div>
+                    <div><p class="moreMes"><span class="nnt">ekonoel</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+</ul>
+                        </div>
+                   </div>
+                                        <!--新秀结束-->    
+            <div class="player_column player_zb">
+              <div class="editable editable01" id="broadcast_meta" style="margin-top: 6px;">
+                <div class="info" style="padding-left:0;">
+                    <div class="title">
+                        <div class="real_title js-title alllive">
+                            在线直播                        </div>
+                        
+                                                    <div class="classify_li">
+                                <ul>                                
+                                                                            <li><a href="javascript:void(0);" data-href="/directory/all" class="lihover" data-pagecount="34">全部</a></li>
+                                                                                <li><a href="javascript:void(0);" data-href="/directory/columnRoom/game" data-pagecount="24" class="" >游戏</a></li>
+                                                                                <li><a href="javascript:void(0);" data-href="/directory/columnRoom/ylxtd" data-pagecount="4" class="" >鱼乐星天地</a></li>
+                                                                                <li><a href="javascript:void(0);" data-href="/directory/columnRoom/ywkj" data-pagecount="1" class="" >鱼玩科技</a></li>
+                                                                                <li><a href="javascript:void(0);" data-href="/directory/columnRoom/typd" data-pagecount="1" class="" >体育频道</a></li>
+                                                                                <li><a href="javascript:void(0);" data-href="/directory/columnRoom/dzh" data-pagecount="5" class="" >大杂烩</a></li>
+                                                                                <li><a href="javascript:void(0);" data-href="/directory/columnRoom/dst" data-pagecount="1" class="" >电视台</a></li>
+                                           
+                                                                    </ul>
+                            </div>
+                                                   
+                    </div>  
+                    <div class="titlebotborder">
+					    <div class="border1"></div>
+						<div class="border2"></div>
+					</div>					
+                </div>
+              </div>
+                                    <div class="items items01 clearfix" id="item_data"><ul>
+                            
+<li><a href="/xiaocang" class="list" title="小苍：从零单排？每盘赢送2W输送1W点券"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/6/335166_1512111837_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">小苍：从零单排？每盘赢送2W输送1W点券</span><span class="zbName">英雄联盟</span></div>
+                    <div><p class="moreMes"><span class="nnt">estellecang</span><span class="view">108万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/weixiao" class="list" title="微笑：   讲道理"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/1/16101_1512111840_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">微笑：   讲道理</span><span class="zbName">英雄联盟</span></div>
+                    <div><p class="moreMes"><span class="nnt">微笑</span><span class="view">95.4万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/riot" class="list" title="2015英雄联盟全明星赛第一日 赛事回放"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/6/288016_1512111840_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">2015英雄联盟全明星赛第一日 赛事回放</span><span class="zbName">英雄联盟</span></div>
+                    <div><p class="moreMes"><span class="nnt">Riot拳头</span><span class="view">86.6万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/93912" class="list" title="黑白,花木兰专场=-="><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/2/93912_1512111839_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">黑白,花木兰专场=-=</span><span class="zbName">英雄联盟</span></div>
+                    <div><p class="moreMes"><span class="nnt">黑白锐雯</span><span class="view">83.2万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/cave" class="list" title="你真以为马里奥是个简单的游戏？"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/1/74751_1512111840_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">你真以为马里奥是个简单的游戏？</span><span class="zbName">主机游戏</span></div>
+                    <div><p class="moreMes"><span class="nnt">超级小桀</span><span class="view">30.9万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/yilidi" class="list" title="毅力帝：这个逐星，我可以玩一天！"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/1/9401_1512111840_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">毅力帝：这个逐星，我可以玩一天！</span><span class="zbName">炉石传说</span></div>
+                    <div><p class="moreMes"><span class="nnt">中华毅力帝</span><span class="view">28.7万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/xiongda" class="list" title="熊大：挖宝爆牌贼 今天我就不信了"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/2/65962_1512111832_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">熊大：挖宝爆牌贼 今天我就不信了</span><span class="zbName">炉石传说</span></div>
+                    <div><p class="moreMes"><span class="nnt">熊jo啦丑比</span><span class="view">28.2万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/10903" class="list" title="我与最强王者有个约会"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/3/10903_1512111839_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">我与最强王者有个约会</span><span class="zbName">英雄联盟</span></div>
+                    <div><p class="moreMes"><span class="nnt">七煌主持Mini</span><span class="view">24.1万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/lolff" class="list" title="SoloFeng：请叫我圣枪风！"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/1/319721_1512111838_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">SoloFeng：请叫我圣枪风！</span><span class="zbName">英雄联盟</span></div>
+                    <div><p class="moreMes"><span class="nnt">solofeng解说丶</span><span class="view">22.2万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/52" class="list" title="天堂火影劫，上忍奥义！"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/2/52_1512111840_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">天堂火影劫，上忍奥义！</span><span class="zbName">英雄联盟</span></div>
+                    <div><p class="moreMes"><span class="nnt">LoveAcFun包子</span><span class="view">20.8万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/58428" class="list" title="yyf直播间   解毒解毒"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/8/58428_1512111837_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">yyf直播间   解毒解毒</span><span class="zbName">DOTA2</span></div>
+                    <div><p class="moreMes"><span class="nnt">yyfyyf</span><span class="view">19.8万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/266055" class="list" title="酥酥：电一大师排位"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/5/266055_1512111836_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">酥酥：电一大师排位</span><span class="zbName">英雄联盟</span></div>
+                    <div><p class="moreMes"><span class="nnt">萌面酥</span><span class="view">19.6万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/19574" class="list" title="八路奶粉：国服蛮王鼻祖~~~~~~~"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/4/19574_1512111837_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">八路奶粉：国服蛮王鼻祖~~~~~~~</span><span class="zbName">英雄联盟</span></div>
+                    <div><p class="moreMes"><span class="nnt">lol八路奶粉阿</span><span class="view">19.3万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/huanhuan520" class="list" title="腿多长才能任性&hellip;"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/2/431972_1512111831_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">腿多长才能任性&hellip;</span><span class="zbName">全民星秀</span></div>
+                    <div><p class="moreMes"><span class="nnt">欢欢女神</span><span class="view">18.2万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/277970" class="list" title="妖精少女 真.狗妈下厨 狗狗晚上献歌"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/0/277970_1512111831_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">妖精少女 真.狗妈下厨 狗狗晚上献歌</span><span class="zbName">户外直播</span></div>
+                    <div><p class="moreMes"><span class="nnt">妖精少女组合</span><span class="view">17.2万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/Yasuoking" class="list" title="王者小弟弟！不服SOLO！输就送飞机！"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/1/79471_1512111832_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">王者小弟弟！不服SOLO！输就送飞机！</span><span class="zbName">英雄联盟</span></div>
+                    <div><p class="moreMes"><span class="nnt">TFBOY丶</span><span class="view">15.9万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/243306" class="list" title="小胖：跟雕哥一起户外！！！"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/6/243306_1512111836_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">小胖：跟雕哥一起户外！！！</span><span class="zbName">户外直播</span></div>
+                    <div><p class="moreMes"><span class="nnt">做个疯子</span><span class="view">15.6万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/217785" class="list" title="国服盲僧我认第二 谁敢认第一？"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/5/217785_1512111831_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">国服盲僧我认第二 谁敢认第一？</span><span class="zbName">英雄联盟</span></div>
+                    <div><p class="moreMes"><span class="nnt">Night丶杀神风</span><span class="view">14.2万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/73966" class="list" title="LGD.Maybe CDEC战起来"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/6/73966_1512111839_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">LGD.Maybe CDEC战起来</span><span class="zbName">DOTA2</span></div>
+                    <div><p class="moreMes"><span class="nnt">CDEC_Maybe</span><span class="view">13.9万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/51" class="list" title="打不留意无双：国服"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/1/51_1512111838_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">打不留意无双：国服</span><span class="zbName">英雄联盟</span></div>
+                    <div><p class="moreMes"><span class="nnt">AcFun_无双</span><span class="view">10.9万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/board" class="list" title="板：来帮我打个冒险，行？"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/2/101342_1512111835_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">板：来帮我打个冒险，行？</span><span class="zbName">炉石传说</span></div>
+                    <div><p class="moreMes"><span class="nnt">萌太奇5238</span><span class="view">10.8万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/440108" class="list" title="肖总户外打野，小白已定位，野味，开搞"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/8/440108_1512111840_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">肖总户外打野，小白已定位，野味，开搞</span><span class="zbName">户外直播</span></div>
+                    <div><p class="moreMes"><span class="nnt">肖总户外打野</span><span class="view">10.2万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/ig430" class="list" title="我的直播间11111"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/6/27836_1512111840_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">我的直播间11111</span><span class="zbName">DOTA2</span></div>
+                    <div><p class="moreMes"><span class="nnt">IG430</span><span class="view">10万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/292930" class="list" title="Katya:斗鱼第一长腿  谁与争锋~"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/0/292930_1512111831_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">Katya:斗鱼第一长腿  谁与争锋~</span><span class="zbName">全民星秀</span></div>
+                    <div><p class="moreMes"><span class="nnt">douyu卡佳</span><span class="view">9.5万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/kkk" class="list" title="【贝爷.德哥】裸奔饥荒地生存系列！"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/2/4332_1512111825_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">【贝爷.德哥】裸奔饥荒地生存系列！</span><span class="zbName">大杂烩</span></div>
+                    <div><p class="moreMes"><span class="nnt">狂拽酷炫</span><span class="view">7.9万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/12313" class="list" title="叶音符：声控皇子穿甲流暴力美学"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/3/12313_1512111840_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">叶音符：声控皇子穿甲流暴力美学</span><span class="zbName">英雄联盟</span></div>
+                    <div><p class="moreMes"><span class="nnt">叶音符</span><span class="view">7.5万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/AZW" class="list" title="OB青铜5：场均100人头教你用闪现"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/8/24418_1512111833_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">OB青铜5：场均100人头教你用闪现</span><span class="zbName">英雄联盟</span></div>
+                    <div><p class="moreMes"><span class="nnt">斗鱼丶华仔</span><span class="view">7.3万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/fzz1" class="list" title="卷毛：只想找个好的姿势躺下！~"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/2/60062_1512111840_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">卷毛：只想找个好的姿势躺下！~</span><span class="zbName">英雄联盟</span></div>
+                    <div><p class="moreMes"><span class="nnt">风中追风Fzz1</span><span class="view">7.1万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/nvliu" class="list" title="PS4国行重力异想世界"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/7/156277_1512111839_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">PS4国行重力异想世界</span><span class="zbName">主机游戏</span></div>
+                    <div><p class="moreMes"><span class="nnt">女流66</span><span class="view">6.7万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/14429" class="list" title="53连胜冲大师 我是牛的传人"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/9/14429_1512111837_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">53连胜冲大师 我是牛的传人</span><span class="zbName">英雄联盟</span></div>
+                    <div><p class="moreMes"><span class="nnt">暴脾气戴老师</span><span class="view">6.6万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/erjie" class="list" title="香港经典动作 鬼片 僵尸专区"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/6/310926_1512111833_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">香港经典动作 鬼片 僵尸专区</span><span class="zbName">大杂烩</span></div>
+                    <div><p class="moreMes"><span class="nnt">久了旧知</span><span class="view">6万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/421867" class="list" title="周星驰专场！！！！"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/7/421867_1512111833_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">周星驰专场！！！！</span><span class="zbName">大杂烩</span></div>
+                    <div><p class="moreMes"><span class="nnt">hubeinet001</span><span class="view">5.9万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/67095" class="list" title="【AJ】正当防卫3核弹轰炸机解救黑丝妹子"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/5/67095_1512111837_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">【AJ】正当防卫3核弹轰炸机解救黑丝妹子</span><span class="zbName">主机游戏</span></div>
+                    <div><p class="moreMes"><span class="nnt">主播AJ</span><span class="view">5.9万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/feishen" class="list" title="无敌中单--发条魔灵"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/9/11579_1512111831_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">无敌中单--发条魔灵</span><span class="zbName">英雄联盟</span></div>
+                    <div><p class="moreMes"><span class="nnt">战非</span><span class="view">5.5万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/8259" class="list" title="送qb 痴汉看过来"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/9/8259_1512111808_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">送qb 痴汉看过来</span><span class="zbName">全民星秀</span></div>
+                    <div><p class="moreMes"><span class="nnt">七煌针针</span><span class="view">5.4万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/107053" class="list" title="兄弟们晚上好！"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/3/107053_1512111838_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">兄弟们晚上好！</span><span class="zbName">地下城与勇士</span></div>
+                    <div><p class="moreMes"><span class="nnt">dnf冷寨主</span><span class="view">5.1万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/436567" class="list" title="2summer小单圈圈污妖王黑暗料理"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/7/436567_1512111837_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">2summer小单圈圈污妖王黑暗料理</span><span class="zbName">御宅职人</span></div>
+                    <div><p class="moreMes"><span class="nnt">sieving</span><span class="view">7945</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/bingge" class="list" title="武汉四大厨娘.avi"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/3/210653_1512111839_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">武汉四大厨娘.avi</span><span class="zbName">户外直播</span></div>
+                    <div><p class="moreMes"><span class="nnt">douyu冰哥</span><span class="view">5万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/203087" class="list" title="西瓜酱  (●&mdash;●)"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/7/203087_1512111836_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">西瓜酱  (●&mdash;●)</span><span class="zbName">户外直播</span></div>
+                    <div><p class="moreMes"><span class="nnt">西瓜酱Queen丶</span><span class="view">4.4万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/221869" class="list" title="梦幻西游手游ING~！！"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/9/221869_1512111832_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">梦幻西游手游ING~！！</span><span class="zbName">手机游戏</span></div>
+                    <div><p class="moreMes"><span class="nnt">小儿郎丶丶</span><span class="view">4.2万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/214786" class="list" title="鱼人萨＆核弹牧，冲传说啦！"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/6/214786_1512111831_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">鱼人萨＆核弹牧，冲传说啦！</span><span class="zbName">炉石传说</span></div>
+                    <div><p class="moreMes"><span class="nnt">两仪未娜丶</span><span class="view">4.1万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/64593" class="list" title="卡丁车思奇日常直播，感谢支持。"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/3/64593_1512111831_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">卡丁车思奇日常直播，感谢支持。</span><span class="zbName">跑跑卡丁车</span></div>
+                    <div><p class="moreMes"><span class="nnt">小弟无肌</span><span class="view">3.7万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/MJ452543" class="list" title="【迈克尔-杰克逊】传递正能量-24H"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/3/452543_1512111836_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">【迈克尔-杰克逊】传递正能量-24H</span><span class="zbName">Music+</span></div>
+                    <div><p class="moreMes"><span class="nnt">Michael520666</span><span class="view">3.7万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/429422" class="list" title="【全裸❤德哥光脚】荒野求生！摄像都不用！"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/2/429422_1512111825_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">【全裸❤德哥光脚】荒野求生！摄像都不用！</span><span class="zbName">大杂烩</span></div>
+                    <div><p class="moreMes"><span class="nnt">lijihede</span><span class="view">3.7万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/321855" class="list" title="大飞韩国户外:弘大性感女团gogo"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/5/321855_1512111836_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">大飞韩国户外:弘大性感女团gogo</span><span class="zbName">户外直播</span></div>
+                    <div><p class="moreMes"><span class="nnt">奋韩大飞</span><span class="view">3.6万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/nesta" class="list" title="内斯塔~15/16欧冠集锦~"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/3/291313_1512111832_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">内斯塔~15/16欧冠集锦~</span><span class="zbName">体育频道</span></div>
+                    <div><p class="moreMes"><span class="nnt">SH内斯塔</span><span class="view">3.4万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/gd008" class="list" title="斗鱼第一寒冰 细节大局意识思路成败"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/1/96291_1512111838_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">斗鱼第一寒冰 细节大局意识思路成败</span><span class="zbName">英雄联盟</span></div>
+                    <div><p class="moreMes"><span class="nnt">东北大鹌鹑</span><span class="view">3.3万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/459279" class="list" title="童乳巨颜来啦~~喜欢我的人都好有品味~~"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/9/459279_1512111839_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">童乳巨颜来啦~~喜欢我的人都好有品味~~</span><span class="zbName">全民星秀</span></div>
+                    <div><p class="moreMes"><span class="nnt">九艺然然</span><span class="view">6702</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/20560" class="list" title="我兔静如瘫痪 动如癫痫 OVQ"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/0/20560_1512111840_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">我兔静如瘫痪 动如癫痫 OVQ</span><span class="zbName">英雄联盟</span></div>
+                    <div><p class="moreMes"><span class="nnt">Rabbits</span><span class="view">2.9万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/rm666" class="list" title="RunningMan24时全民乐翻天"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/0/81970_1512111833_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">RunningMan24时全民乐翻天</span><span class="zbName">大杂烩</span></div>
+                    <div><p class="moreMes"><span class="nnt">詹姆斯龚</span><span class="view">2.8万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/99816" class="list" title="世界这么大 之  正当防卫3"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/6/99816_1512111831_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">世界这么大 之  正当防卫3</span><span class="zbName">主机游戏</span></div>
+                    <div><p class="moreMes"><span class="nnt">今晚打老虎gg</span><span class="view">2.7万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/kkkk" class="list" title="【周星驰】24小时 一生所爱 永远的经典"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/0/6540_1512111825_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">【周星驰】24小时 一生所爱 永远的经典</span><span class="zbName">大杂烩</span></div>
+                    <div><p class="moreMes"><span class="nnt">酷酷炫炫</span><span class="view">2.7万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/LZY520" class="list" title="【林正英】女鬼 僵尸 高清 护体"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/9/218859_1512111833_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">【林正英】女鬼 僵尸 高清 护体</span><span class="zbName">大杂烩</span></div>
+                    <div><p class="moreMes"><span class="nnt">UnaDirezione</span><span class="view">2.6万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/35954" class="list" title="国服第一上单瑞兹.连招与faker相同！"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/4/35954_1512111840_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">国服第一上单瑞兹.连招与faker相同！</span><span class="zbName">英雄联盟</span></div>
+                    <div><p class="moreMes"><span class="nnt">恶魔神</span><span class="view">2.5万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/dianyuetai" class="list" title="跟随电喵一起穿越时空"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/8/334188_1512111840_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">跟随电喵一起穿越时空</span><span class="zbName">Music+</span></div>
+                    <div><p class="moreMes"><span class="nnt">电喵</span><span class="view">3985</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/85894" class="list" title="【星爷】周星驰 高清24小时 经典"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/4/85894_1512111825_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">【星爷】周星驰 高清24小时 经典</span><span class="zbName">大杂烩</span></div>
+                    <div><p class="moreMes"><span class="nnt">进击的神乐</span><span class="view">2.5万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/225181" class="list" title="【葛优电影】葛大爷逗你玩"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/1/225181_1512111832_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">【葛优电影】葛大爷逗你玩</span><span class="zbName">大杂烩</span></div>
+                    <div><p class="moreMes"><span class="nnt">我来逗你玩</span><span class="view">2.4万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/OOOOOOOOOOO" class="list" title="【火影忍者】 超精彩战役剪辑"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/8/206858_1512111833_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">【火影忍者】 超精彩战役剪辑</span><span class="zbName">大杂烩</span></div>
+                    <div><p class="moreMes"><span class="nnt">所有人都在装</span><span class="view">2.4万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/swk" class="list" title="孙悟空：国服最强猴王"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/2/475252_1512111840_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">孙悟空：国服最强猴王</span><span class="zbName">英雄联盟</span></div>
+                    <div><p class="moreMes"><span class="nnt">孙悟空zzz</span><span class="view">2.4万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/63623" class="list" title="鲍鲍AD讲堂：团战 对线细节 大菊观"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/3/63623_1512111838_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">鲍鲍AD讲堂：团战 对线细节 大菊观</span><span class="zbName">英雄联盟</span></div>
+                    <div><p class="moreMes"><span class="nnt">略微变态</span><span class="view">2.4万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/PEG" class="list" title="美女+二货+帅姐+女汉 四合一组合君惧否"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/5/444325_1512111835_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">美女+二货+帅姐+女汉 四合一组合君惧否</span><span class="zbName">Music+</span></div>
+                    <div><p class="moreMes"><span class="nnt">PEG组合</span><span class="view">122</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/318624" class="list" title="挖蛇狂魔F4,晚上啤酒鸭"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/4/318624_1512111836_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">挖蛇狂魔F4,晚上啤酒鸭</span><span class="zbName">户外直播</span></div>
+                    <div><p class="moreMes"><span class="nnt">老乡开下门</span><span class="view">2.2万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/schukey" class="list" title="【大湿】FIFA16球坛酒神每被进球就喝"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/1/62851_1512111838_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">【大湿】FIFA16球坛酒神每被进球就喝</span><span class="zbName">足球竞技</span></div>
+                    <div><p class="moreMes"><span class="nnt">心理战大师</span><span class="view">2592</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/qinggege" class="list" title="【晴儿影院】经典n(*≧▽≦*)n动作"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/5/314855_1512111833_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">【晴儿影院】经典n(*≧▽≦*)n动作</span><span class="zbName">大杂烩</span></div>
+                    <div><p class="moreMes"><span class="nnt">晴儿丶格格</span><span class="view">2.2万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/cmdc" class="list" title="【香港赌片】赌神，赌侠，赌圣，千王，雀圣"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/7/315457_1512111825_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">【香港赌片】赌神，赌侠，赌圣，千王，雀圣</span><span class="zbName">大杂烩</span></div>
+                    <div><p class="moreMes"><span class="nnt">吃米滴虫</span><span class="view">2万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/178599" class="list" title="季老师：最新英雄级人物 全新国王模式大曝"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/9/178599_1512111831_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">季老师：最新英雄级人物 全新国王模式大曝</span><span class="zbName">穿越火线</span></div>
+                    <div><p class="moreMes"><span class="nnt">生化大魔王</span><span class="view">1.9万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/315067" class="list" title="妖怪!妖怪! 你是妖怪！"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/7/315067_1512111839_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">妖怪!妖怪! 你是妖怪！</span><span class="zbName">全民星秀</span></div>
+                    <div><p class="moreMes"><span class="nnt">7ys丶暖暖</span><span class="view">1.9万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/fa6ren" class="list" title="法6人有TM回来了！！"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/3/69893_1512111838_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">法6人有TM回来了！！</span><span class="zbName">英雄联盟</span></div>
+                    <div><p class="moreMes"><span class="nnt">Pinzak</span><span class="view">1.8万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/fly100" class="list" title="电子竞技没有休息~~"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/9/255329_1512111838_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">电子竞技没有休息~~</span><span class="zbName">魔兽争霸</span></div>
+                    <div><p class="moreMes"><span class="nnt">Flygogogogo</span><span class="view">1.8万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/TTK" class="list" title="动作 喜剧 武侠 青春 动画轮播中"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/3/5423_1512111825_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">动作 喜剧 武侠 青春 动画轮播中</span><span class="zbName">大杂烩</span></div>
+                    <div><p class="moreMes"><span class="nnt">安全套不套</span><span class="view">1.8万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/482441" class="list" title="爱情公寓 高清  搞笑  循环"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/1/482441_1512111833_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">爱情公寓 高清  搞笑  循环</span><span class="zbName">大杂烩</span></div>
+                    <div><p class="moreMes"><span class="nnt">醉卧小楼风吹雪</span><span class="view">1.6万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/chibang" class="list" title="翅：玄学深渊~强化开光合天空！"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/1/28101_1512111838_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">翅：玄学深渊~强化开光合天空！</span><span class="zbName">地下城与勇士</span></div>
+                    <div><p class="moreMes"><span class="nnt">云彩上的翅膀</span><span class="view">1.6万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/455908" class="list" title="好姑娘永垂不朽！"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/8/455908_1512102148_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">好姑娘永垂不朽！</span><span class="zbName">全民星秀</span></div>
+                    <div><p class="moreMes"><span class="nnt">没脑仁的土鳖女</span><span class="view">1.5万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/chenchichi" class="list" title="【拉面君】爱情公寓24小时笑翻天"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/7/7127_1512111833_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">【拉面君】爱情公寓24小时笑翻天</span><span class="zbName">大杂烩</span></div>
+                    <div><p class="moreMes"><span class="nnt">豚骨拉麵</span><span class="view">1.5万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/65096" class="list" title="[24H]科幻 僵尸 动作 恐怖 经典~"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/6/65096_1512111840_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">[24H]科幻 僵尸 动作 恐怖 经典~</span><span class="zbName">大杂烩</span></div>
+                    <div><p class="moreMes"><span class="nnt">13482578345</span><span class="view">1.5万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/335950" class="list" title="【呆呆】高能科幻大片无限精彩"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/0/335950_1512111833_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">【呆呆】高能科幻大片无限精彩</span><span class="zbName">大杂烩</span></div>
+                    <div><p class="moreMes"><span class="nnt">萌萌萌呆呆</span><span class="view">1.5万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/Clinchan" class="list" title="好久不见，刷点鱼丸酬勤，thank"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/3/122943_1512111831_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">好久不见，刷点鱼丸酬勤，thank</span><span class="zbName">穿越火线</span></div>
+                    <div><p class="moreMes"><span class="nnt">SherlcokHolmes</span><span class="view">1.5万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/57845" class="list" title="CC炼金：遛狗教父！1000移速屁炸全场"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/5/57845_1512111832_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">CC炼金：遛狗教父！1000移速屁炸全场</span><span class="zbName">英雄联盟</span></div>
+                    <div><p class="moreMes"><span class="nnt">声优Colorway</span><span class="view">1.4万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/laodaizaici" class="list" title="老戴直播间"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/2/216352_1512111837_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">老戴直播间</span><span class="zbName">主机游戏</span></div>
+                    <div><p class="moreMes"><span class="nnt">老戴在此</span><span class="view">1.4万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/459222" class="list" title="瑶瑶满月啦，感谢一路有你"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/2/459222_1512111836_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">瑶瑶满月啦，感谢一路有你</span><span class="zbName">全民星秀</span></div>
+                    <div><p class="moreMes"><span class="nnt">九艺瑶啊瑶</span><span class="view">1.4万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/60651" class="list" title="FC 老弊直播间"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/1/60651_1512111831_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">FC 老弊直播间</span><span class="zbName">怀旧游戏</span></div>
+                    <div><p class="moreMes"><span class="nnt">shuishen31</span><span class="view">1.3万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/cocom" class="list" title="【UFC】精彩比赛"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/2/333702_1512111833_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">【UFC】精彩比赛</span><span class="zbName">体育频道</span></div>
+                    <div><p class="moreMes"><span class="nnt">Coco妹</span><span class="view">1.3万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/iseven" class="list" title="清晨醒脑！T-ara根本停不下来！"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/2/17732_1512111833_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">清晨醒脑！T-ara根本停不下来！</span><span class="zbName">大杂烩</span></div>
+                    <div><p class="moreMes"><span class="nnt">7师傅</span><span class="view">1.3万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/Eeeeee" class="list" title="七煌二细我的直播间"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/9/152069_1512111840_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">七煌二细我的直播间</span><span class="zbName">魔兽世界</span></div>
+                    <div><p class="moreMes"><span class="nnt">二细</span><span class="view">1.3万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/qyqx" class="list" title="QYQX的直播间"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/7/7_1512111837_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">QYQX的直播间</span><span class="zbName">英雄联盟</span></div>
+                    <div><p class="moreMes"><span class="nnt">Nearly1</span><span class="view">1.2万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/mayuki520" class="list" title="我又要被虐了~好惨~"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/8/99438_1512111832_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">我又要被虐了~好惨~</span><span class="zbName">星际争霸</span></div>
+                    <div><p class="moreMes"><span class="nnt">Mayuki闲</span><span class="view">1.2万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/106103" class="list" title="小涛：我回来了！红色警戒"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/3/106103_1512111832_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">小涛：我回来了！红色警戒</span><span class="zbName">怀旧游戏</span></div>
+                    <div><p class="moreMes"><span class="nnt">顽强的小涛</span><span class="view">1.2万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/442752" class="list" title="俄罗斯美女主播：Alina"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/2/442752_1512111838_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">俄罗斯美女主播：Alina</span><span class="zbName">全民星秀</span></div>
+                    <div><p class="moreMes"><span class="nnt">Alina阿丽娜</span><span class="view">1.2万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/291237" class="list" title="【钰钰影厅】漫威~科幻~战争"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/7/291237_1512111833_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">【钰钰影厅】漫威~科幻~战争</span><span class="zbName">大杂烩</span></div>
+                    <div><p class="moreMes"><span class="nnt">酷炫呆呆</span><span class="view">1.2万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/312410" class="list" title="怀孕了...吐了一天，今天少说话~"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/0/312410_1512111837_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">怀孕了...吐了一天，今天少说话~</span><span class="zbName">炉石传说</span></div>
+                    <div><p class="moreMes"><span class="nnt">炉石丶春哥</span><span class="view">1.2万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/452557" class="list" title="小妹妹日常：带你们逛大学，吃美食"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/7/452557_1512111831_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">小妹妹日常：带你们逛大学，吃美食</span><span class="zbName">户外直播</span></div>
+                    <div><p class="moreMes"><span class="nnt">新面孔小妹妹</span><span class="view">1.2万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/lgdyao" class="list" title="《天龙八部》之决战CDEC"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/2/337702_1512111838_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">《天龙八部》之决战CDEC</span><span class="zbName">DOTA2</span></div>
+                    <div><p class="moreMes"><span class="nnt">Yao姚峥峥</span><span class="view">1.2万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/GIF" class="list" title="神剪辑：搞笑、福利、逗比全都有"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/6/66786_1512111832_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">神剪辑：搞笑、福利、逗比全都有</span><span class="zbName">大杂烩</span></div>
+                    <div><p class="moreMes"><span class="nnt">人生若如初见21</span><span class="view">1.1万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/kunshen" class="list" title="小坤：爱笑的BOY。"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/2/96972_1512111839_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">小坤：爱笑的BOY。</span><span class="zbName">英雄联盟</span></div>
+                    <div><p class="moreMes"><span class="nnt">呆萌小坤</span><span class="view">1.1万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/muzi" class="list" title="彩虹六号，从菜鸡开始。"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/3/2433_1512111839_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">彩虹六号，从菜鸡开始。</span><span class="zbName">主机游戏</span></div>
+                    <div><p class="moreMes"><span class="nnt">木子Sama丶</span><span class="view">1.1万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/458170" class="list" title="Alex经纪人JiuBa"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/0/458170_1512111840_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">Alex经纪人JiuBa</span><span class="zbName">CS:GO</span></div>
+                    <div><p class="moreMes"><span class="nnt">阮林</span><span class="view">286</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/suzle" class="list" title="【ADGirl】谁说白银就不能愉快玩耍了"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/5/340215_1512111832_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">【ADGirl】谁说白银就不能愉快玩耍了</span><span class="zbName">CS:GO</span></div>
+                    <div><p class="moreMes"><span class="nnt">喵星姑奶奶</span><span class="view">93</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/tyloosooobbb" class="list" title="天禄SOMEBODY_"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/5/178585_1512111824_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">天禄SOMEBODY_</span><span class="zbName">CS:GO</span></div>
+                    <div><p class="moreMes"><span class="nnt">first3h</span><span class="view">308</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/XUmanman" class="list" title="慢：莫慌  来了！"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/0/12930_1512111836_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">慢：莫慌  来了！</span><span class="zbName">英雄联盟</span></div>
+                    <div><p class="moreMes"><span class="nnt">斗鱼丶徐慢慢</span><span class="view">1.1万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/musictv" class="list" title="【华莱坞】唱唱歌与水友交流一下"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/8/297198_1512111839_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">【华莱坞】唱唱歌与水友交流一下</span><span class="zbName">御宅职人</span></div>
+                    <div><p class="moreMes"><span class="nnt">zhongyuecc</span><span class="view">1.1万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/guiyingtony" class="list" title="WWE【24时超精彩】/WWF摔角"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/2/213312_1512111833_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">WWE【24时超精彩】/WWF摔角</span><span class="zbName">体育频道</span></div>
+                    <div><p class="moreMes"><span class="nnt">鬼影Tony</span><span class="view">1.1万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/hayabusa" class="list" title="愤怒の小拉达"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/5/209225_1512111832_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">愤怒の小拉达</span><span class="zbName">DOTA2</span></div>
+                    <div><p class="moreMes"><span class="nnt">hayabusa_7</span><span class="view">1.1万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/igchuan" class="list" title="终于可以不卡的玩游戏了"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/8/58718_1512111831_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">终于可以不卡的玩游戏了</span><span class="zbName">DOTA2</span></div>
+                    <div><p class="moreMes"><span class="nnt">ChuaN黄福全</span><span class="view">1万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/kpc" class="list" title="【贝爷影厅】科幻 动作 巨兽 灾难 经典"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/2/252802_1512111825_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">【贝爷影厅】科幻 动作 巨兽 灾难 经典</span><span class="zbName">大杂烩</span></div>
+                    <div><p class="moreMes"><span class="nnt">狂仔酷炫</span><span class="view">1万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/jiale" class="list" title="做完头发 跟喜欢的美女DJ吃饭"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/8/228588_1512111831_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">做完头发 跟喜欢的美女DJ吃饭</span><span class="zbName">御宅职人</span></div>
+                    <div><p class="moreMes"><span class="nnt">伽乐K1chanLee</span><span class="view">1万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/103713" class="list" title="精彩回放 中国队神勇比赛！"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/3/103713_1512111832_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">精彩回放 中国队神勇比赛！</span><span class="zbName">英雄联盟</span></div>
+                    <div><p class="moreMes"><span class="nnt">安妮大魔王</span><span class="view">1万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/481310" class="list" title="（409）中华小当家"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/0/481310_1512111837_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">（409）中华小当家</span><span class="zbName">大杂烩</span></div>
+                    <div><p class="moreMes"><span class="nnt">是飞dc</span><span class="view">1.3万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/mudo" class="list" title="12岁世界第一亚索！寻找民间浪子彦输送钱"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/8/467688_1512111836_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">12岁世界第一亚索！寻找民间浪子彦输送钱</span><span class="zbName">英雄联盟</span></div>
+                    <div><p class="moreMes"><span class="nnt">被人嫉妒的王者四弟</span><span class="view">1.1万</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/xiaoxing946" class="list" title="小星：国服第一男刀"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/8/18218_1512111840_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">小星：国服第一男刀</span><span class="zbName">英雄联盟</span></div>
+                    <div><p class="moreMes"><span class="nnt">小星_k94</span><span class="view">9973</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/97" class="list" title="小狼：我TMD又回来了"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/7/97_1512111840_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">小狼：我TMD又回来了</span><span class="zbName">格斗游戏</span></div>
+                    <div><p class="moreMes"><span class="nnt">解说小狼</span><span class="view">9843</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/420341" class="list" title="【国民美少女】陪6晶一起流汗，韩蒸馆闻脚"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/1/420341_1512111837_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">【国民美少女】陪6晶一起流汗，韩蒸馆闻脚</span><span class="zbName">户外直播</span></div>
+                    <div><p class="moreMes"><span class="nnt">国民美少女</span><span class="view">9836</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/3q3q" class="list" title="QQQ,1080P风暴特效全开直播间。"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/3/19223_1512111831_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">QQQ,1080P风暴特效全开直播间。</span><span class="zbName">风暴英雄</span></div>
+                    <div><p class="moreMes"><span class="nnt">暴雪脑残粉QQQ</span><span class="view">9681</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/xiaoleilei" class="list" title="小泪泪：你的套路我的心 嘿嘿嘿"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/3/184833_1512111837_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">小泪泪：你的套路我的心 嘿嘿嘿</span><span class="zbName">英雄联盟</span></div>
+                    <div><p class="moreMes"><span class="nnt">小小泪泪怎么那么可爱</span><span class="view">9276</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/danche" class="list" title="【单车】的征途是星辰大海"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/0/339610_1512111832_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">【单车】的征途是星辰大海</span><span class="zbName">DOTA2</span></div>
+                    <div><p class="moreMes"><span class="nnt">单车老师不迟到</span><span class="view">9275</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/468241" class="list" title="波哥户外，带水友挖竹鼠，激情无限"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/1/468241_1512111839_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">波哥户外，带水友挖竹鼠，激情无限</span><span class="zbName">户外直播</span></div>
+                    <div><p class="moreMes"><span class="nnt">波哥户外花式打野</span><span class="view">9100</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/timoo" class="list" title="（提莫）爱情公寓  未删减 欢迎吐槽"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/5/55955_1512111825_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">（提莫）爱情公寓  未删减 欢迎吐槽</span><span class="zbName">大杂烩</span></div>
+                    <div><p class="moreMes"><span class="nnt">Gordony</span><span class="view">9079</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/alexcsgo" class="list" title="【老帅哥alex】今天是个好日子"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/8/293018_1512111838_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">【老帅哥alex】今天是个好日子</span><span class="zbName">CS:GO</span></div>
+                    <div><p class="moreMes"><span class="nnt">alex卞正伟</span><span class="view">9061</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/xinsanguo" class="list" title="【新三国】超清 95集 未删减"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/2/278112_1512111833_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">【新三国】超清 95集 未删减</span><span class="zbName">大杂烩</span></div>
+                    <div><p class="moreMes"><span class="nnt">清心一叶</span><span class="view">8851</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/amis" class="list" title="导演你看我死哪"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/7/278227_1512111839_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">导演你看我死哪</span><span class="zbName">英雄联盟</span></div>
+                    <div><p class="moreMes"><span class="nnt">小兔只是一只兔1c</span><span class="view">8428</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+            
+<li><a href="/110883" class="list" title="027(NBA2K16)跟璐璐单挑五子棋"><span class="img"><img class="lazy" data-original="http://staticlive.douyutv.com/upload/web_pic/3/110883_1512111832_thumb.jpg" src="http://staticlive.douyutv.com/upload/web_pic/default2_thumb.jpg" width="320" height="180"/></span>
+				<div class="mes">
+					<div class="mesDivOne"><span class="title">027(NBA2K16)跟璐璐单挑五子棋</span><span class="zbName">篮球游戏</span></div>
+                    <div><p class="moreMes"><span class="nnt">tt139710720</span><span class="view">8369</span></p></div>
+				</div>
+                <div class="shadow"> </div><i class="iconPlay"></i> 
+                <i class="icon_live">正在直播</i>                </a></li>
+							  </ul></div>
+			   				  <div class="tcdPageCode" id="js_page_tcd"></div>
+			              </div>
+          </div>
+        </div>
+      </div>
+      </div>
+   </div>
+   <div><input type="hidden" value="0" id="js_cate_id"/>
+        <input type="hidden" value="34" id="allPage" /><input type="hidden" value="1" id="newPage" /></div>
+</div>
+<script type="text/javascript">
+    var left_scroll = {
+        scroll_div: $('#left_big_show'),
+        set_scroll_height: function(){
+            // left_scroll.scroll_div.height(left_scroll.scroll_div.height());
+        },
+        init: function(){
+            //this.set_scroll_height();
+            // left_scroll.scroll_div.tinyscrollbar();
+        },
+        update: function(){
+            //this.set_scroll_height();
+            // left_scroll.scroll_div.tinyscrollbar_update();
+        }
+
+    }
+    $(function(){
+        oTab("#hotgame","click");
+    	if($SYS['uid'])
+	    {
+	        $('#js_no_login').hide();
+	        $('#js_chat_mem').show();
+	        $("#left_big_show").css({top: 0});
+	        var follow_str = '<a href="/room/follow/my_follow"><i class="icon icon-focus"></i><span>我的关注</span></a>';
+	        var follow_hidden_str = '<a href="/room/follow/my_follow" title="关注"><i class="icon is3"></i><span>关注</span></a>';
+	        if($SYS['own_room'] == "1")
+				$('#is_room_own').show();
+			else
+				$('#is_no_room').show();
+	    }else
+	    {
+			$('#is_no_room_own').show();
+	    	var follow_str = '<a href="javascript:void(0);" onclick="open_login(\'/room/follow/my_follow\');  return false;"><i class="icon icon-focus"></i><span>我的关注</span></a>';
+	    	var follow_hidden_str = '<a  href="javascript:void(0);" onclick="open_login(\'/room/follow/my_follow\');  return false;" title="关注" target="_blank"><i class="icon is3"></i><span>关注</span></a>';
+	    }
+
+		$('#follow_li').html(follow_str);
+		$('#follow_hidden_li').html(follow_hidden_str);
+
+
+	    // set_right_height();
+        left_scroll.init();
+        // $(window).resize(function() {
+        //     // setTimeout(left_scroll.update, 500);
+        //     set_right_height();
+        // });
+		
+        $("#bar").hover(function(){
+            $('#bartit').toggle();
+        });
+        
+        /*$("#left_close").click(function(){
+            var $left_col = $("#left_col");									
+            var $large_nav = $("#large_nav");
+            var $small_nav = $("#small_nav");
+            var $main_col = $("#main_col");
+            if($large_nav.is(":visible")) { 
+                $large_nav.hide();
+                $small_nav.show();
+                $left_col.css('width', '49px');
+                $left_col.css('height', $(window).height() - $('#header').outerHeight(true));
+                $main_col.css('margin-left', '50px');
+                $("#left_close").addClass("left_open");
+                setCookie('left_menu', 1, 2592000);
+            } else {
+                $main_col.css('margin-left', '240px');
+                $left_col.css('width', '240px');
+                $small_nav.hide();
+                $large_nav.show();
+                $("#left_close").removeClass("left_open"); 
+                setCookie('left_menu', 0, 2592000);
+                setTimeout(left_scroll.update, 500);
+            }
+
+            if(typeof(set_live_height) == "function") {
+                set_live_height();
+            }
+
+            set_ad_width();
+            set_right_height();
+            
+            if(window.LargeNavSBar) {
+                LargeNavSBar.reset();
+            }
+
+			if($("#js_game_page").length){
+				$(window).resize();
+			}            
+			return false;
+        }); 
+
+		if(get_cookie('left_menu') === '1') { 
+			$("#left_close").trigger('click'); 
+		}*/
+
+		// $("#right_close").click(function(){
+		// 	set_right_height();
+		// 	return false;
+		// });
+
+	// 	var share_timer = null;
+	// $("#r_share").hover(
+	// 	function(){
+
+	// 		if($("#js_share_more1").is(":hidden")){
+	// 			if(share_timer)
+	// 				clearTimeout(share_timer);
+	// 			$(".share_more").removeClass("share_more_single");
+	// 			if($(".js_live_height").width()-$(".js_live_height .h_action").width()+$("#js_share").width() < 600){
+	// 				$(".share_more").addClass("share_more_single");
+	// 			}
+	// 			$("#js_share_more1").show();
+	// 			$("#js_share_more1 a.s_copy").each(function(){
+	// 				if($(this).parent('div').is(":hidden")){
+	// 					$(this).parent('div').show();
+	// 					$(this).parent('div').addClass('haschange');
+	// 				}
+	// 				$(this).zclip({
+	// 					path: room_args.res_path + 'images/ZeroClipboard.swf',
+	// 					copy:$(this).prev().val(),
+	// 					afterCopy:function(){
+	// 						$.dialog.tips_black("已复制到您的剪切板", 1.5);
+	// 					}
+	// 				});
+	// 				if($(this).parent('div').hasClass("haschange")){
+	// 					$(this).parent('div').hide();
+	// 					$(this).parent('div').removeClass('haschange');
+	// 				}
+	// 			});
+	// 			$(".js_share_more").removeClass("more01");
+	// 			$(".js_share_more").addClass("more");
+	// 		}
+	// 		return false;
+
+	// 	},function(){
+	// 		 $("#js_share_more1").hide();
+	// 		 $('.zclip').remove();
+	// 		 $(".js_share_more").removeClass("more");
+	// 		 $(".js_share_more").addClass("more");
+	// 		 $(".js_share_more").addClass("more01");
+
+	// 	}
+	// 	/*,
+	// 	function(){
+	// 		share_timer = setTimeout(function(){ $("#js_share_more").hide(); }, 500);
+	// 	}*/
+	// );
+
+		/*	if($ROOM['show_status'] == 1 && $SYS['uid'] == $ROOM['owner_uid'])
+			{
+				var load_live_info = $.dialog.tips_black('正在加载直播信息，请稍后……', 15);
+			}*/
+
+
+    });
+
+    function search_submit_left()
+    {
+        var word = $("#search_word").val();
+        word = $.trim(word);
+        if(word.length == 0)
+        {
+            alert_msg('搜索关键词还没有填写',"$('#search_word').focus();");
+            return false;
+        }
+        window.location.href = '/search/' + encodeURIComponent(word) + '?from=left';
+    }
+
+    /*function set_right_height()
+    {
+	    var w  = $('#main_col').width();
+	    if(w > 715)
+		{
+			$('#room_qrcode_box').show();
+		}
+		if(w <= 715)
+		{
+			$('#room_qrcode_box').hide();
+		}
+		if($(window).width() > 1200)
+			$('#header .head').css('width','1200px');
+		else
+			$('#header .head').css('width','1100px');
+
+		$('.zclip').css('left' , '316px');
+    }*/
+    </script>
+<div class="loginWd loginBg" id="js_login_dialog">
+  <div id="culp"><a class="pwclose" href="#" >&nbsp;</a>
+    </div>
+  <div class="toggleBtn_login" id="js_login_tab">
+    <ul>
+      <li><a href="javascript:void(0);" id="js_login">登录</a></li>
+      <li><a href="javascript:void(0);" id="js_reg">注册</a></li>
+    </ul>
+  </div>
+  <div class="wdCont clearfix">
+  	<div class="inputBox clearfix" id="js_reg_cont">
+    <form id="reg_form" action="" method="post">
+      <p>
+        <input class="inputtxt" type="text" name="nickname"  placeholder="用户账号" />
+      </p>
+      <p>
+        <input class="inputtxt" type="password" name="password" placeholder="密码" />
+      </p>
+      <p>
+        <input class="inputtxt" type="password" name="password2" placeholder="确认密码" />
+      </p>
+      <p>
+        <input class="inputtxt" type="text" name="email" placeholder="电子邮箱" />
+      </p>
+<input class="inputtxt" type="hidden" name="captcha_word" id="reg_captcha_val" maxlength="4" placeholder="获取验证码" style="width:110px;">
+
+      <div class="loginBtn_dialog clearfix">
+        <input class="sendlogin" type="submit" id="js_reg_submit" value="注册" />
+        <p>已有账号？<a href="javascript:void(0)" onClick="user_dialog.open_login(); return false;" title="马上登录">马上登录</a></p>
+      </div>
+    </form>
+    </div>
+    
+    <div class="inputBox clearfix" id="js_login_cont">
+    <form id="login-form" action="/member/login/ajax" method="post">
+    	<input type="hidden" name="login_type" value="nickname" />
+      <p>
+        <input class="inputtxt" type="text" name="username" placeholder="用户账号" />
+      </p>
+      <p>
+        <input class="inputtxt" type="password" name="password" placeholder="密码"/>
+      </p>
+      <p>
+    <div id="login_captcha_cont">
+        <input class="inputtxt login_capcha_old" type="text" name="captcha_word" id="login_captcha_val" maxlength="4" placeholder="获取验证码" style="width:110px;">&nbsp;
+        <img id="login_captcha" class="login_capcha_old" data-src="/member/login/captcha" src="http://staticlive.douyutv.com/common/douyu/images/wh.png" style="vertical-align:middle; cursor:pointer;" />
+    </div>
+</p>
+      <div class="loginBtn_dialog clearfix">
+        <input class="sendlogin" type="submit" value="登录" id="js_login_submit" />
+        <p>没有账号？<a href="javascript:void(0)" onClick="user_dialog.open_reg(); return false;" title="马上注册">马上注册</a></p>
+      </div>
+    </form>
+    </div>
+    
+    <div class="elseLogin_dialog">
+      <p>用第三方账号直接登录</p>
+      <div> <a href="/member/oauth/signin/acfun" class="acfunBtn" title="Acfun账号登录"><span class="dy_icon dy_acfun"></span>Acfun账号登录</a> <a href="/member/oauth/signin/qq" class="sinaBtn" title="QQ账号登录"><span class="dy_icon dy_sina"></span>QQ账号登录</a> <a href="/member/oauth/signin/weibo" class="qqBtn" title="微博账号登录"><span class="dy_icon dy_qq"></span>微博账号登录</a> </div>
+      <p class="forgetPd"><a href="/member/findpassword" target="_blank">忘记密码？</a></p>
+    </div>
+  </div>
+  
+  <!--中文验证码-->
+<div class="lyzm" style=" display:none">
+
+<div class="tit clearfix"><h3>输入验证码完成注册</h3><a href="#" class="close" onClick="$('#reg_captcha_val').val('');$(this).parents('div.lyzm').hide()">关闭</a></div>
+
+<div class="con">
+      <div class="val_add clearfix">
+      <img id="reg_captcha" src="" 
+      data-src="/member/register/regcaptcha" style="display: none" />
+      <span>验证码</span>
+          <b></b>
+          <b></b>
+          <b></b>
+          <b></b>
+          <b class="delete" title="清除"></b>
+      </div>
+      <div class="input_show">
+          <span onClick="user_form.update_vcode('reg_captcha')" style="cursor:pointer;" ></span>
+      <a href="#" onClick="user_form.update_vcode('reg_captcha')"><em>看不清？</em></a>
+      </div>
+      <div class="ation">点击框内文字输入验证码</div>
+      <div class="val_input clearfix">
+          <a href="javascript:;"><b num='0' style="backgroundPositionX:0px; backgroundPositionY:0px; background-position: 0 0;"></b></a>
+          <a href="javascript:;"><b num='1' style="backgroundPositionX:-55px; backgroundPositionY:0px; background-position: -55px 0;"></b></a>
+          <a href="javascript:;"><b num='2' style="backgroundPositionX:-110px; backgroundPositionY:0px; background-position: -110px 0;"></b></a>
+          <a href="javascript:;"><b num='3' style="backgroundPositionX:0px; backgroundPositionY:-40px; background-position: 0 -40px;"></b></a>
+          <a href="javascript:;"><b num='4' style="backgroundPositionX:-55px; backgroundPositionY:-40px; background-position: -55px -40px;"></b></a>
+          <a href="javascript:;"><b num='5' style="backgroundPositionX:-110px; backgroundPositionY:-40px; background-position: -110px -40px;"></b></a>
+          <a href="javascript:;"><b num='6' style="backgroundPositionX:0px; backgroundPositionY:-80px; background-position: 0 -80px;"></b></a>
+          <a href="javascript:;"><b num='7' style="backgroundPositionX:-55px; backgroundPositionY:-80px;  background-position: -55px -80px;"></b></a>
+          <a href="javascript:;"><b num='8' style="backgroundPositionX:-110px; backgroundPositionY:-80px;  background-position: -110px -80px;"></b></a>
+      </div>
+  </div>
+</div>  
+  
+  
+</div><!-- lastUpdate: 2015-12-11 18:40:46 --></body>
+</html>

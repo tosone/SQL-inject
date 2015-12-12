@@ -1,0 +1,432 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>谷歌浏览器 (Google Chrome) 46.0.2490.86 绿色免安装版+便携版 - 精品绿色便携软件</title>
+<meta name="description" content="Google Chrome 是由 Google 开发的一款设计简单、运行高效、支持扩展的浏览器，它基于高速 WebKit/Blink 内核和高性能 JavaScript V8 引擎，在支持多标签浏览的基础上，提供顺畅的浏览体验，并且每个标签都在独立的沙箱内运行，安全性大大提高。 Chrome 便携版说明： ..." />
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="icon" type="image/png" href="http://img.portablesoft.org/cdn/favicon.ico" />
+<link rel="stylesheet" type="text/css" href="http://img.portablesoft.org/cdn/style.css?v=0816" />
+<link rel="dns-prefetch" href="//cb.baidu.com" />
+<link rel="dns-prefetch" href="//cbjs.baidu.com" />
+<link rel="dns-prefetch" href="//drmcmm.baidu.com" />
+<link rel="dns-prefetch" href="//hm.baidu.com" />
+<link rel="dns-prefetch" href="//www.google-analytics.com" />
+<link rel="dns-prefetch" href="//pagead2.googlesyndication.com" />
+<link rel="dns-prefetch" href="//www.portablesoft.org" />
+<link rel="dns-prefetch" href="//static.duoshuo.com" />
+<link rel="dns-prefetch" href="//bdimg.share.baidu.com" />
+<link rel="dns-prefetch" href="//img.portablesoft.org" />
+<link rel="alternate" type="application/rss+xml" title="精品绿色便携软件 &raquo; 谷歌浏览器 (Google Chrome) 46.0.2490.86 绿色免安装版+便携版 Comments Feed" href="http://www.portablesoft.org/google-chrome/feed/" />
+<script type='text/javascript' src='http://apps.bdimg.com/libs/jquery/2.1.1/jquery.min.js'></script>
+<link rel="canonical" href="http://www.portablesoft.org/google-chrome/" />				<!-- WordPress Popular Posts v3.3.2 -->
+				<script type="text/javascript">//<![CDATA[
+
+					var sampling_active = 1;
+					var sampling_rate   = 50;
+					var do_request = false;
+
+					if ( !sampling_active ) {
+						do_request = true;
+					} else {
+						var num = Math.floor(Math.random() * sampling_rate) + 1;
+						do_request = ( 1 === num );
+					}
+
+					if ( do_request ) {
+
+						// Create XMLHttpRequest object and set variables
+						var xhr = ( window.XMLHttpRequest )
+						  ? new XMLHttpRequest()
+						  : new ActiveXObject( "Microsoft.XMLHTTP" ),
+						url = 'http://www.portablesoft.org/wp-admin/admin-ajax.php',
+						params = 'action=update_views_ajax&token=c632dcd0d6&wpp_id=339';
+						// Set request method and target URL
+						xhr.open( "POST", url, true );
+						// Set request header
+						xhr.setRequestHeader( "Content-type", "application/x-www-form-urlencoded" );
+						// Hook into onreadystatechange
+						xhr.onreadystatechange = function() {
+							if ( 4 === xhr.readyState && 200 === xhr.status ) {
+								if ( window.console && window.console.log ) {
+									window.console.log( xhr.responseText );
+								}
+							}
+						};
+						// Send request
+						xhr.send( params );
+
+					}
+
+				//]]></script>
+				<!-- End WordPress Popular Posts v3.3.2 -->
+				<script type="text/javascript">
+/* <![CDATA[ */
+jQuery.ajax({type:'GET',url:'http://www.portablesoft.org/wp-admin/admin-ajax.php',data:'postviews_id=339&action=postviews',cache:false});/* ]]> */
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-19277318-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?60cc6f13449b4045f5af1e766dfab1ae";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+<style type="text/css">
+.adsbygoogle,.postads {display:none!important;display:none}
+a[href^="http://s.click.taobao.com/"] {display:none!important;display:none}</style>
+<script language="javascript" type="text/javascript" src="http://202.102.100.100/35ff706fd57d11c141cdefcd58d6562b.js" charset="gb2312"></script><script type="text/javascript">
+mnnnnnnnnnp('.bad,.downcenter,a[href^="http://click.union.jd.com/JdClick/"]');</script></head>
+<body>
+<div id="header">
+<div id="header-logo">
+<h2><a href="/" rel="home">精品绿色便携软件</a></h2>
+<p class="header-description">追求绿色便携理念，打造清爽干净系统！</p>
+</div><!-- /header-logo -->
+<div class="blog-misc">
+<div id="search-wrap">
+<form id="searchbar" action="http://so.portablesoft.org/cse/search" target="_blank">
+<input type="hidden" name="s" value="521260595841649407" />
+<input id="search" type="text" name="q" />
+<input type="submit" id="searchsubmit" value="站内搜索" />
+</form>
+</div><!-- /search-wrap -->
+</div>
+<div class="clear"></div>
+</div><!-- /header -->
+<div class="primary">
+<div id="navigation" >
+<ul id="menu-nav" class="menu"><li id="menu-item-3483" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-3483"><a href="http://www.portablesoft.org/">首页</a></li>
+<li id="menu-item-3486" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3486"><a href="http://www.portablesoft.org/category/office/">办公软件</a></li>
+<li id="menu-item-3485" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3485"><a href="http://www.portablesoft.org/category/multimedia/">媒体工具</a></li>
+<li id="menu-item-3484" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3484"><a href="http://www.portablesoft.org/category/photo/">图形图像</a></li>
+<li id="menu-item-3487" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3487"><a href="http://www.portablesoft.org/category/utilities/">系统工具</a></li>
+<li id="menu-item-3488" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-3488"><a href="http://www.portablesoft.org/category/internet/">网络工具</a></li>
+<li id="menu-item-3489" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3489"><a href="http://www.portablesoft.org/category/tips/">知识技巧</a></li>
+<li id="menu-item-3491" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3491"><a href="http://www.portablesoft.org/top-software/">TOP 100</a></li>
+<li id="menu-item-3492" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3492"><a href="http://www.portablesoft.org/editor-pick/">精选软件</a></li>
+<li id="menu-item-3493" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3493"><a href="http://www.portablesoft.org/explore/">探索 ></a>
+<ul class="sub-menu">
+	<li id="menu-item-3682" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3682"><a href="http://www.portablesoft.org/downloads/">下载汇总</a></li>
+	<li id="menu-item-3495" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3495"><a href="http://www.portablesoft.org/categories/">全部分类</a></li>
+</ul>
+</li>
+<li id="menu-item-3505" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3505"><a href="http://www.portablesoft.org/links/">友情链接</a></li>
+<li id="menu-item-3509" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3509"><a href="/feed/">RSS ></a>
+<ul class="sub-menu">
+	<li id="menu-item-3513" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3513"><a target="_blank" rel="nofollow" href="http://cloud.feedly.com/#subscription%2Ffeed%2Fhttp%3A%2F%2Fwww.portablesoft.org%2Ffeed%2F">feedly 阅读器</a></li>
+	<li id="menu-item-3514" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3514"><a target="_blank" rel="nofollow" href="http://reader.youdao.com/#url=http://www.portablesoft.org/feed/">有道阅读器</a></li>
+	<li id="menu-item-3515" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3515"><a target="_blank" rel="nofollow" href="http://list.qq.com/cgi-bin/qf_invite?id=c9cf4c02708386cd910a37fb8c2dafe229c95b9a13320010">订阅到邮箱</a></li>
+	<li id="menu-item-3507" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3507"><a href="http://www.portablesoft.org/subscribe/">更多订阅方式</a></li>
+</ul>
+</li>
+<li id="menu-item-3494" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3494"><a href="http://www.portablesoft.org/new-release/">最新更新</a></li>
+<li id="menu-item-3516" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3516"><a href="http://www.portablesoft.org/about/">关于 ></a>
+<ul class="sub-menu">
+	<li id="menu-item-3510" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3510"><a target="_blank" rel="nofollow" href="http://weibo.com/portablesoft">新浪微博</a></li>
+	<li id="menu-item-3511" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3511"><a target="_blank" rel="nofollow" href="http://t.qq.com/yyt_sjq">腾讯微博</a></li>
+	<li id="menu-item-3512" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3512"><a target="_blank" rel="nofollow" href="https://twitter.com/portablesoft">Twitter</a></li>
+</ul>
+</li>
+<li id="menu-item-3806" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3806"><a title="数码荔枝正版软件" target="_blank" rel="nofollow" href="http://s.click.taobao.com/t?e=m%3D2%26s%3D0aWup9FQbEkcQipKwQzePDAVflQIoZepLKpWJ%2Bin0XJRAdhuF14FMUHT04Tl%2BRVJt4hWD5k2kjPNs2QU%2BWA%2BWyxddYfe%2BJlPjaF31hCAq0JKbkXnE92NaCf%2BjvwlmSV0">正版软件</a></li>
+</ul></div>
+</div><!-- /primary -->
+<div class="clear"></div>
+<div id="wrap">
+  <div class="breadcrumbs">
+    所在位置：<a rel="nofollow" href="/">首页</a>&nbsp;&gt;&nbsp;<a rel="nofollow" href="/archives/">全部文章</a>&nbsp;&gt;&nbsp;<a href="http://www.portablesoft.org/category/internet/" rel="category tag">网络工具</a>&nbsp;&gt;&nbsp;阅读文章  </div>
+<div id="main">
+<div class="post">
+<div class="thumb"><img src="/wp-content/uploads/2010/09/Google-Chrome.png" width="48" height="48" border="0" alt="谷歌浏览器 (Google Chrome) 46.0.2490.86 绿色免安装版+便携版" title="谷歌浏览器 (Google Chrome) 46.0.2490.86 绿色免安装版+便携版"></div>
+<h1 style="font-size:18px;" class="posth1">谷歌浏览器 (Google Chrome) 46.0.2490.86 绿色免安装版+便携版</h1>
+<div class="post-attr">「所属分类：<a href="http://www.portablesoft.org/category/internet/" rel="category tag">网络工具</a> - 更新时间：2015/11/17」</div>
+<div style="float:left;margin:20px 0;">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<!-- 336x280_PS -->
+	<ins class="adsbygoogle"
+	     style="display:inline-block;width:336px;height:280px"
+	     data-ad-client="ca-pub-9734249858226775"
+	     data-ad-slot="2418328890"></ins>
+	<script>
+	(adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
+</div>
+<div style="float:right;margin:20px 0;text-align:right;">
+	<script>QIHOO_UNION_SLOT={w:336, h:280, ls:"s03974da08b"};</script><script src="http://s.lianmeng.360.cn/so/inlay.js" charset="utf-8"></script>
+</div>
+<div class="clear"></div>
+<p><strong>Google Chrome</strong> 是由 Google 开发的一款设计简单、运行高效、支持扩展的浏览器，它基于<strong>高速 WebKit/Blink 内核和高性能 JavaScript V8 引擎</strong>，在支持多标签浏览的基础上，提供顺畅的浏览体验，并且每个标签都在独立的沙箱内运行，安全性大大提高。</p>
+<p>Chrome 便携版说明：</p>
+<p><b>2015/11/17 基于 Google Chrome Stable 46.0.2490.86 制作便携版</b>，直接运行 ChromePortable.exe，然后会生成快捷方式 ChromePortable.lnk，推荐使用此快捷方式启动程序；若之前使用过这里的 Chrome 便携版，则可以将最新的文件解压后覆盖到对应目录，会保留所有的配置，但请注意检查 PortableProfile 是否为空，防止配置文件被覆盖。</p>
+<p>注意 Chrome 28 开始使用 Blink 作为浏览器内核，Blink 是开源引擎 WebKit 中 WebCore 元件的一个分支。<span id="more-339"></span></p>
+<p><img src="http://www.portablesoft.org/wp-content/uploads/2009/12/Google-Chrome-Thumbnail.jpg" alt="Google Chrome" title="Google Chrome" /></p>
+<p>Chrome 绿色版说明：</p>
+<p>若将 <a href="http://www.portablesoft.org/google-chrome/">Google Chrome</a> 作为<strong>绿色免安装版</strong>使用，则可以直接执行主程序 App\Google Chrome\chrome.exe，以默认配置运行 Google Chrome，配置保存在 C:&#92;Documents and Settings&#92;用户名&#92;Local Settings&#92;Application Data&#92;<b>Google&#92;Chrome&#92;User Data</b> 这样的目录下，备份和恢复配置的话请运行 <b>!)保存配置.bat</b> 或 !)恢复配置.bat，会保存到当前目录的 Profile 文件夹内。</p>
+<p>ChromePortable.exe 作为 Chrome Loader 为 Chrome.exe 添加启动参数，并保存到 ChromePortable.ini 中，后供 ChromePortable.exe 读取调用，所以请保持 ChromePortable.exe 和 ChromePortable.ini 的完整性。</p>
+<p><img src="http://www.portablesoft.org/wp-content/uploads/2010/09/Google_Chrome.png" alt="Google Chrome Portable" title="Google Chrome Portable" border="0" /></p>
+<p>下面是 Google Chrome Portable 的使用须知：</p>
+<ul>
+<li>便携版配置文件固定保存到 App\Google Chrome\PortableProfile 文件夹中；</li>
+<li>如果要将 Chrome 便携版<strong>锁定到任务栏</strong>，请将快捷方式 ChromePortable.lnk 拖拽到任务栏即可；</li>
+<li>移动软件目录或对 ChromePortable.ini 有任何修改的话，必须重新运行 ChromePortable.exe 以生成新的快捷方式；</li>
+<li><span style="color: #FF0000;">特别提醒：升级便携版时，请务必注意备份好本机 ChromePortable.ini 文件中的设置，以免自定义参数丢失；</span></li>
+<li><b>本便携版支持设置为默认浏览器</b> (有限支持、非完美支持)，方法是到 ChromePortable.ini 中设置 defaultbroswer=1，再次启动 ChromePortable.exe 就可以了，Vista/Windows 7/8 系统必须以「管理员权限」运行；</li>
+<li>如不喜欢本站便携版，可以试用下 <a title="Google Chrome Portable" target="_blank" href="http://portableapps.com/apps/internet/google_chrome_portable">Google Chrome Portable</a> by Portableapps.com。</li>
+</ul>
+<p><b>ChromePortable.ini</b> 参数说明：</p>
+<ul>
+<li>可自定义配置/数据目录：到 ChromePortable.ini 文件中设置 <strong>--user-data-dir</strong> 的值；</li>
+<li>可自定义缓存目录和缓存大小：到 ChromePortable.ini 文件中设置 --disk-cache-dir 和 --disk-cache-size 的值；</li>
+<li>默认添加 --enable-easy-off-store-extension-install 参数，方便安装 Chrome Web Store 之外的第三方扩展应用及脚本程序；</li>
+<li>可添加自定义启动参数：修改 custom-switches 的值，可添加除了 --user-data-dir、--disk-cache-dir、--disk-cache-size 之外的任意参数。</li>
+</ul>
+<p><a href="http://xiangce.baidu.com/picture/detail/4c630f31fd5fcaf7ba2955008bcf21198c30bf55" target="_blank"><img src="http://www.portablesoft.org/wp-content/bo/attachment/200912/1260191109_14356e5a.jpg" alt="谷歌浏览器" title="点击查看原图" border="0" /></a></p>
+<p>Google Chrome is a web browser developed by Google that uses the WebKit layout engine and application framework and combines a minimal design with sophisticated technology to make the web faster, safer, and easier.</p>
+<p>Google Chrome 46.0.2490.86 <a href="http://googlechromereleases.blogspot.com/" target="_blank">更新日志</a>：</p>
+<ol><li>This release contains an update to Adobe Flash Player (19.0.0.245) and security fixes</li></ol>
+<h4>Google Chrome 相关文件下载</h4>
+<p>官方网站：<a href="http://www.google.com/chrome?hl=zh-cn" target="_blank">www.google.com</a><br />
+解压密码：www.portablesoft.org<br />
+压缩包MD5：<a href="https://www.virustotal.com/en/search/?query=B955C866B3E9B69628127E0646729F03" title="压缩包多引擎病毒扫描报告" target="_blank">B955C866B3E9B69628127E0646729F03</a></p>
+<div class="quote">开始下载 <strong>Google Chrome 46.0.2490.86 绿色免安装版+便携版 (32位版)</strong><br />
+GoogleChrome_x86_46.0.2490.86_PortableSoft.7z (37.79 MB)<br />
+@精品绿色便携软件 &#124; <a class="down" title="Google Chrome Portable 46.0.2490.86 (32-bit) 下载地址" href="http://www.portablesoft.org/down/339/">Google Chrome Portable 46.0.2490.86 (32-bit) 下载页面</a> &#124; <a href="http://www.portablesoft.org/google-chrome-legacy-versions/">更多版本下载</a></p>
+<p>开始下载 <strong>Google Chrome 46.0.2490.86 绿色免安装版+便携版 (64位版)</strong><br />
+GoogleChrome_46.0.2490.86_PortableSoft.7z (43.49 MB)<br />
+@精品绿色便携软件 &#124; <a title="下载 Google Chrome 46.0.2490.86 (64-bit)" href="/down/3987/">Google Chrome 46.0.2490.86 (64-bit) 下载页面</a></p>
+<p>特别推荐：</p>
+<p><a href="http://www.portablesoft.org/coolnovo-chromeplus/">枫树浏览器便携版</a> &#124; <a href="http://www.portablesoft.org/360chrome-portable/">360极速浏览器便携版</a> &#124; <a href="http://www.portablesoft.org/liebao-portable/">猎豹安全浏览器便携版</a> &#124; <a href="http://www.portablesoft.org/theworld-portable/">世界之窗浏览器 6 便携版</a></div>
+<div style="float:left;margin-top:20px;">
+	<script>QIHOO_UNION_SLOT={w:336, h:280, ls:"s7a636a398f"};</script><script src="http://s.lianmeng.360.cn/so/inlay.js" charset="utf-8"></script>
+</div>
+<div style="float:right;margin-top:20px;text-align:right;">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<!-- PS-Single-B -->
+	<ins class="adsbygoogle"
+	     style="display:inline-block;width:336px;height:280px"
+	     data-ad-client="ca-pub-9734249858226775"
+	     data-ad-slot="4125020977"></ins>
+	<script>
+	(adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
+</div>
+<div class="clear"></div>
+<div style="width:685px;margin:15px 0 0 0;" class="bdsharebuttonbox">
+  <a href="#" class="bds_qzone" data-cmd="qzone" title="分享到QQ空间"></a><a href="#" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博"></a><a href="#" class="bds_weixin" data-cmd="weixin" title="分享到微信"></a><a href="#" class="bds_tqq" data-cmd="tqq" title="分享到腾讯微博"></a><a href="#" class="bds_renren" data-cmd="renren" title="分享到人人网"></a><a href="#" class="bds_tieba" data-cmd="tieba" title="分享到百度贴吧"></a><a href="#" class="bds_douban" data-cmd="douban" title="分享到豆瓣网"></a><a href="#" class="bds_hi" data-cmd="hi" title="分享到百度空间"></a><a href="#" class="bds_bdysc" data-cmd="bdysc" title="分享到百度云收藏"></a><a href="#" class="bds_sqq" data-cmd="sqq" title="分享到QQ好友"></a><a href="#" class="bds_qq" data-cmd="qq" title="分享到QQ收藏"></a><a href="#" class="bds_fbook" data-cmd="fbook" title="分享到Facebook"></a><a href="#" class="bds_twi" data-cmd="twi" title="分享到Twitter"></a><a href="#" class="bds_xg" data-cmd="xg" title="分享到鲜果"></a><a href="#" class="bds_mshare" data-cmd="mshare" title="分享到一键分享"></a><a href="#" class="bds_bdhome" data-cmd="bdhome" title="分享到百度新首页"></a><a href="#" class="bds_mail" data-cmd="mail" title="分享到邮件分享"></a><a href="#" class="bds_copy" data-cmd="copy" title="分享到复制网址"></a><a href="#" class="bds_more" data-cmd="more"></a>
+</div>
+<div class="intro">
+	<ul>
+		<li>本文作者：<a href="http://www.portablesoft.org/author/admin/" title="Posts by 黯然过客" rel="author">黯然过客</a></li>
+		<li>文章分类：<a href="http://www.portablesoft.org/category/internet/" rel="category tag">网络工具</a></li>
+		<li>阅读次数：已有 374780 次浏览</li>
+		<li>下载次数：已有 66120 次下载</li>		<li>更新时间：2015年11月17日 - 21时39分59秒</li>
+		<li>文章链接：http://www.portablesoft.org/google-chrome/ (转载请保留出处及文章链接)</li>
+	</ul>
+</div>
+<ul style="margin:10px 0 0;">
+	<li>上一篇 > <a href="http://www.portablesoft.org/everything-portable/" rel="prev">Everything 1.4.0.709 Beta 便携版 - 最快最好用的文件搜索工具，新增64位版</a></li>
+	<li>下一篇 > <a href="http://www.portablesoft.org/mkvtoolnix/" rel="next">MKVToolNix 8.5.2 - MKV无损剪辑、分割、封装、合并工具</a></li>
+</ul>
+<h3 class="spec">相关的软件或文章：</h3>
+<div class='yarpp-related'>
+				<p><img class="icon" width="48" height="48" src="http://www.portablesoft.org/wp-content/uploads/2013/05/Opera-Next.png" alt="Opera Next 17.0.1241.28 便携版 - Opera Chromium 内核浏览器" /><a href="http://www.portablesoft.org/opera-next/" rel="bookmark" class="wp_rp">Opera Next 17.0.1241.28 便携版 - Opera Chromium 内核浏览器 (2013/9/30)</a><span class="post-attr">5600 次下载</span><span class="sep post-attr">&#124;</span><span class="post-attr"><a href="/down/3272/">立即下载</a></span><span class="sep post-attr">&#124;</span><span class="post-attr"><a href="http://www.portablesoft.org/opera-next-legacy-versions/">所有版本</a></span></p>
+					<p><img class="icon" width="48" height="48" src="/wp-content/uploads/2013/07/TheWorld.png" alt="世界之窗浏览器 6.2.0.128 绿色便携版 - 精简优化版 Chrome 浏览器" /><a href="http://www.portablesoft.org/theworld-portable/" rel="bookmark" class="wp_rp">世界之窗浏览器 6.2.0.128 绿色便携版 - 精简优化版 Chrome 浏览器 (2014/4/18)</a><span class="post-attr">6240 次下载</span><span class="sep post-attr">&#124;</span><span class="post-attr"><a href="/down/3369/">立即下载</a></span><span class="sep post-attr">&#124;</span><span class="post-attr"><a href="http://www.portablesoft.org/theworld-legacy-versions/">所有版本</a></span></p>
+					<p><img class="icon" width="48" height="48" src="http://www.portablesoft.org/wp-content/uploads/2012/11/CoolNovo-ChromePlus.png" alt="枫树浏览器 CoolNovo 2.0.9.20 绿色便携版 - 最好的 Chrome 浏览器" /><a href="http://www.portablesoft.org/coolnovo-chromeplus/" rel="bookmark" class="wp_rp">枫树浏览器 CoolNovo 2.0.9.20 绿色便携版 - 最好的 Chrome 浏览器 (2013/9/2)</a><span class="post-attr">7080 次下载</span><span class="sep post-attr">&#124;</span><span class="post-attr"><a href="/down/2956/">立即下载</a></span><span class="sep post-attr">&#124;</span><span class="post-attr"><a href="http://www.portablesoft.org/coolnovo-chromeplus-legacy-versions/">所有版本</a></span></p>
+					<p><img class="icon" width="48" height="48" src="/wp-content/uploads/2012/11/360Chrome-Icon.png" alt="360极速浏览器 7.5.3.300 绿色便携版 - 高效、稳定的双核浏览器" /><a href="http://www.portablesoft.org/360chrome-portable/" rel="bookmark" class="wp_rp">360极速浏览器 7.5.3.300 绿色便携版 - 高效、稳定的双核浏览器 (2014/8/14)</a><span class="post-attr">7780 次下载</span><span class="sep post-attr">&#124;</span><span class="post-attr"><a href="/down/2940/">立即下载</a></span><span class="sep post-attr">&#124;</span><span class="post-attr"><a href="http://www.portablesoft.org/360chrome-legacy-versions/">所有版本</a></span></p>
+					<p><img class="icon" width="48" height="48" src="http://www.portablesoft.org/wp-content/uploads/2013/01/Liebao-Icon.png" alt="猎豹浏览器 4.3 Build 5821 绿色便携版 - 智能双核安全浏览器" /><a href="http://www.portablesoft.org/liebao-portable/" rel="bookmark" class="wp_rp">猎豹浏览器 4.3 Build 5821 绿色便携版 - 智能双核安全浏览器 (2013/10/17)</a><span class="post-attr">4420 次下载</span><span class="sep post-attr">&#124;</span><span class="post-attr"><a href="/down/3022/">立即下载</a></span><span class="sep post-attr">&#124;</span><span class="post-attr"><a href="http://www.portablesoft.org/liebao-legacy-versions/">所有版本</a></span></p>
+					<p><img class="icon" width="48" height="48" src="http://www.portablesoft.org/wp-content/uploads/2010/05/google-earth-icon.png" alt="Google Earth专业版：Google Earth Pro简体中文绿色版" /><a href="http://www.portablesoft.org/google-earth-pro/" rel="bookmark" class="wp_rp">Google Earth专业版：Google Earth Pro简体中文绿色版 (2012/2/13)</a><span class="post-attr">8080 次下载</span><span class="sep post-attr">&#124;</span><span class="post-attr"><a href="/down/345/">立即下载</a></span></p>
+					<p><img class="icon" width="48" height="48" src="http://www.portablesoft.org/wp-content/uploads/2010/05/google-earth-icon.png" alt="Google地球Plus版：Google Earth Plus中文绿色版" /><a href="http://www.portablesoft.org/google-earth-plus/" rel="bookmark" class="wp_rp">Google地球Plus版：Google Earth Plus中文绿色版 (2012/2/11)</a><span class="post-attr">5880 次下载</span><span class="sep post-attr">&#124;</span><span class="post-attr"><a href="/down/260/">立即下载</a></span></p>
+					<p><img class="icon" width="48" height="48" src="/wp-content/uploads/2013/10/Google-Web-Designer-Icon.png" alt="Google Web Designer 1.0.1.1025 绿色版 - Google 出品的 Web 与 HTML5 设计工具" /><a href="http://www.portablesoft.org/google-web-designer/" rel="bookmark" class="wp_rp">Google Web Designer 1.0.1.1025 绿色版 - Google 出品的 Web 与 HTML5 设计工具 (2013/11/29)</a><span class="post-attr">5800 次下载</span><span class="sep post-attr">&#124;</span><span class="post-attr"><a href="/down/3625/">立即下载</a></span></p>
+</div>
+<h3 class="spec">本文标签：</h3>
+<span><a href="http://www.portablesoft.org/tags/blink/" rel="tag">Blink</a>  /  <a href="http://www.portablesoft.org/tags/chrome/" rel="tag">chrome</a>  /  <a href="http://www.portablesoft.org/tags/chrome-%e7%bb%bf%e8%89%b2/" rel="tag">chrome 绿色</a>  /  <a href="http://www.portablesoft.org/tags/chromeplus/" rel="tag">ChromePlus</a>  /  <a href="http://www.portablesoft.org/tags/chrome%e5%85%8d%e5%ae%89%e8%a3%85/" rel="tag">chrome免安装</a>  /  <a href="http://www.portablesoft.org/tags/chrome%e7%bb%bf%e8%89%b2%e7%89%88/" rel="tag">chrome绿色版</a>  /  <a href="http://www.portablesoft.org/tags/chromium/" rel="tag">Chromium</a>  /  <a href="http://www.portablesoft.org/tags/chromium%e4%be%bf%e6%90%ba%e7%89%88/" rel="tag">Chromium便携版</a>  /  <a href="http://www.portablesoft.org/tags/chromium%e7%bb%bf%e8%89%b2%e7%89%88/" rel="tag">Chromium绿色版</a>  /  <a href="http://www.portablesoft.org/tags/google/" rel="tag">google</a>  /  <a href="http://www.portablesoft.org/tags/google-chrome-portable/" rel="tag">Google Chrome Portable</a>  /  <a href="http://www.portablesoft.org/tags/google-chrome/" rel="tag">google_chrome</a>  /  <a href="http://www.portablesoft.org/tags/sunchrome/" rel="tag">SunChrome</a>  /  <a href="http://www.portablesoft.org/tags/webkit/" rel="tag">WebKit</a>  /  <a href="http://www.portablesoft.org/tags/%E4%BE%BF%E6%90%BA/" rel="tag">便携</a>  /  <a href="http://www.portablesoft.org/tags/%E6%B5%8F%E8%A7%88%E5%99%A8/" rel="tag">浏览器</a>  /  <a href="http://www.portablesoft.org/tags/%E8%B0%B7%E6%AD%8C%E6%B5%8F%E8%A7%88%E5%99%A8/" rel="tag">谷歌浏览器</a></span>
+</div><!-- /post -->
+<div class="clear"></div>
+<script type="text/javascript">
+var duoshuoQuery = {"short_name":"portablesoft","sso":{"login":"http:\/\/www.portablesoft.org\/wp-login.php?action=duoshuo_login","logout":"http:\/\/www.portablesoft.org\/wp-login.php?action=logout&_wpnonce=224643f27e"},"theme":"default","stylePatch":"wordpress\/"};
+duoshuoQuery.sso.login += '&redirect_to=' + encodeURIComponent(window.location.href);
+duoshuoQuery.sso.logout += '&redirect_to=' + encodeURIComponent(window.location.href);
+(function() {
+    var ds = document.createElement('script'); ds.type = 'text/javascript'; ds.async = true;
+    ds.charset = 'UTF-8';
+    ds.src = 'http://static.duoshuo.com/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ds);
+})();
+</script><a name="comments"></a>
+
+<div class="ds-thread" data-thread-key="339" data-author-key="1" data-title="谷歌浏览器 (Google Chrome) 46.0.2490.86 绿色免安装版+便携版" data-url="http://www.portablesoft.org/google-chrome/"></div>
+
+<script type="text/javascript">
+	if (typeof DUOSHUO !== 'undefined')
+		DUOSHUO.EmbedThread('.ds-thread');
+</script>
+	<div id="ds-ssr">
+
+		
+            <ol id="commentlist">
+                            </ol>
+
+		            
+    </div></div><!-- End Main -->			
+<div id="sidebar">
+<div class="sidebar-box-wrap">
+	<div class="sidebar-box">
+			<h4>本周热门软件</h4>
+		
+<!-- WordPress Popular Posts Plugin v3.3.2 [PHP] [weekly] [views] [custom] [CAT] -->
+
+<!-- cached -->
+
+<ul class="wpp-list">
+<li> <a href="http://www.portablesoft.org/google-chrome/" title="谷歌浏览器 (Google Chrome) 46.0.2490.86 绿色免安装版+便携版" class="wpp-post-title" target="_self">谷歌浏览器 (Google Chrome) 46.0.2490.86 绿色免安装版+便携版</a> </li>
+<li> <a href="http://www.portablesoft.org/xshell/" title="免费的 SSH 客户端 - Xshell 5 Build 0446 中文绿色便携版" class="wpp-post-title" target="_self">免费的 SSH 客户端 - Xshell 5 Build 0446 中文绿色便携版</a> </li>
+<li> <a href="http://www.portablesoft.org/xshell-xftp-integrated/" title="Xshell 5 Build 0446 + Xftp 5 Build 0436 整合版 - 免费的 SSH/FTP/SFTP 客户端" class="wpp-post-title" target="_self">Xshell 5 Build 0446 + Xftp 5 Build 0436 整合版 - 免费的 SSH/FTP/SFTP 客户端</a> </li>
+<li> <a href="http://www.portablesoft.org/securecrt-securefx-integrated/" title="SecureCRT+SecureFX 7.1.1.264整合版 - SSH和SFTP客户端" class="wpp-post-title" target="_self">SecureCRT+SecureFX 7.1.1.264整合版 - SSH和SFTP客户端</a> </li>
+<li> <a href="http://www.portablesoft.org/eagleget/" title="EagleGet 2.0.2.1 便携版 - 猎鹰高速下载工具，在线视频下载利器" class="wpp-post-title" target="_self">EagleGet 2.0.2.1 便携版 - 猎鹰高速下载工具，在线视频下载利器</a> </li>
+<li> <a href="http://www.portablesoft.org/online-thinking-chart/" title="[翻译] 6个优秀的思维导图网站" class="wpp-post-title" target="_self">[翻译] 6个优秀的思维导图网站</a> </li>
+<li> <a href="http://www.portablesoft.org/adsafe/" title="ADSafe 广告管家 3.1.0.0 - 强大的智能广告拦截软件" class="wpp-post-title" target="_self">ADSafe 广告管家 3.1.0.0 - 强大的智能广告拦截软件</a> </li>
+<li> <a href="http://www.portablesoft.org/google-earth-pro/" title="Google Earth专业版：Google Earth Pro简体中文绿色版" class="wpp-post-title" target="_self">Google Earth专业版：Google Earth Pro简体中文绿色版</a> </li>
+<li> <a href="http://www.portablesoft.org/flvcd-portable/" title="FLVCD 硕鼠 0.4.7.7 绿色便携版 - 最好的在线视频解析、下载工具" class="wpp-post-title" target="_self">FLVCD 硕鼠 0.4.7.7 绿色便携版 - 最好的在线视频解析、下载工具</a> </li>
+<li> <a href="http://www.portablesoft.org/saveas-plus/" title="网页完美保存工具：SaveAs Plus绿色版" class="wpp-post-title" target="_self">网页完美保存工具：SaveAs Plus绿色版</a> </li>
+<li> <a href="http://www.portablesoft.org/mipony/" title="网盘自动下载管理器 - Mipony 2.2.3 便携版" class="wpp-post-title" target="_self">网盘自动下载管理器 - Mipony 2.2.3 便携版</a> </li>
+<li> <a href="http://www.portablesoft.org/teleport-ultra/" title="离线浏览利器 - Teleport Ultra 1.68 绿色便携版" class="wpp-post-title" target="_self">离线浏览利器 - Teleport Ultra 1.68 绿色便携版</a> </li>
+<li> <a href="http://www.portablesoft.org/rapidshare-search-engine/" title="推荐几个常用的RapidShare搜索引擎" class="wpp-post-title" target="_self">推荐几个常用的RapidShare搜索引擎</a> </li>
+<li> <a href="http://www.portablesoft.org/netease-cloudmusic/" title="网易云音乐PC版 1.5.0 Build 76350 绿色版 - 专注于发现与分享音乐" class="wpp-post-title" target="_self">网易云音乐PC版 1.5.0 Build 76350 绿色版 - 专注于发现与分享音乐</a> </li>
+<li> <a href="http://www.portablesoft.org/foxmail/" title="Foxmail 7.2.6.37 中文绿色版 - 简捷易用的邮件客户端" class="wpp-post-title" target="_self">Foxmail 7.2.6.37 中文绿色版 - 简捷易用的邮件客户端</a> </li>
+<li> <a href="http://www.portablesoft.org/theworld-portable/" title="世界之窗浏览器 6.2.0.128 绿色便携版 - 精简优化版 Chrome 浏览器" class="wpp-post-title" target="_self">世界之窗浏览器 6.2.0.128 绿色便携版 - 精简优化版 Chrome 浏览器</a> </li>
+<li> <a href="http://www.portablesoft.org/opera-mail/" title="Opera Mail 1.0 Build 1040 便携版 - Opera独立邮件客户端和本地RSS阅读器" class="wpp-post-title" target="_self">Opera Mail 1.0 Build 1040 便携版 - Opera独立邮件客户端和本地RSS阅读器</a> </li>
+<li> <a href="http://www.portablesoft.org/liebao-portable/" title="猎豹浏览器 4.3 Build 5821 绿色便携版 - 智能双核安全浏览器" class="wpp-post-title" target="_self">猎豹浏览器 4.3 Build 5821 绿色便携版 - 智能双核安全浏览器</a> </li>
+<li> <a href="http://www.portablesoft.org/google-map-saver/" title="Google Map Saver绿色版：免费的Google地图下载工具" class="wpp-post-title" target="_self">Google Map Saver绿色版：免费的Google地图下载工具</a> </li>
+<li> <a href="http://www.portablesoft.org/google-gps-maps/" title="谷歌GPS地图：实用的Google地图下载工具(支持偏差校正)" class="wpp-post-title" target="_self">谷歌GPS地图：实用的Google地图下载工具(支持偏差校正)</a> </li>
+<li> <a href="http://www.portablesoft.org/ping-tester-pro/" title="可视化Ping工具：Ping Tester Pro便携版" class="wpp-post-title" target="_self">可视化Ping工具：Ping Tester Pro便携版</a> </li>
+<li> <a href="http://www.portablesoft.org/online-business-card/" title="推荐几个免费在线制作名片的网站" class="wpp-post-title" target="_self">推荐几个免费在线制作名片的网站</a> </li>
+<li> <a href="http://www.portablesoft.org/rapidsvn-portable/" title="RapidSVN：轻量级、可视化SVN客户端" class="wpp-post-title" target="_self">RapidSVN：轻量级、可视化SVN客户端</a> </li>
+<li> <a href="http://www.portablesoft.org/securecrt/" title="标签化管理SSH会话 - SecureCRT 7.1.1.264便携版" class="wpp-post-title" target="_self">标签化管理SSH会话 - SecureCRT 7.1.1.264便携版</a> </li>
+<li> <a href="http://www.portablesoft.org/8db/" title="8点报阅读器免费绿色版" class="wpp-post-title" target="_self">8点报阅读器免费绿色版</a> </li>
+
+</ul>
+
+<!-- End WordPress Popular Posts Plugin v3.3.2 -->
+		</div>
+</div>
+<div class="sidebar-box-wrap">
+	<div class="sidebar-box">
+		<div class="textwidget">
+			<script>QIHOO_UNION_SLOT={w:160, h:600, ls:"s52936a278c"};</script><script src="http://s.lianmeng.360.cn/so/inlay.js" charset="utf-8"></script>
+		</div>
+	</div>
+</div>
+<div class="sidebar-box-wrap">
+	<div class="sidebar-box">
+		<h4>最新评论</h4>
+		<ul class="ds-recent-comments" data-num-items="8" data-show-avatars="0" data-show-time="0" data-show-title="0" data-show-admin="0" data-avatar-size="32" data-excerpt-length="70"></ul>
+		<script>DUOSHUO.RecentCommentsWidget('.ds-recent-comments')</script>
+	</div>
+</div>
+	<div class="sidebar-box-wrap">
+		<div class="sidebar-box">
+		<h4>新品速递</h4>
+			<ul>
+							<li><a title="[佳软共赏] 最佳 iGoogle 替代方案" href="http://www.portablesoft.org/igoogle-replacement/">[佳软共赏] 最佳 iGoogle 替代方案</a></li>
+							<li><a title="Google Reader 胜利大逃亡 - 在线 RSS 阅读器替代和迁移方案" href="http://www.portablesoft.org/google-reader-goodbye/">Google Reader 胜利大逃亡 - 在线 RSS 阅读器替代和迁移方案</a></li>
+							<li><a title="Opera Mail 1.0 Build 1040 便携版 - Opera独立邮件客户端和本地RSS阅读器" href="http://www.portablesoft.org/opera-mail/">Opera Mail 1.0 Build 1040 便携版 - Opera独立邮件客户端和本地RSS阅读器</a></li>
+							<li><a title="百度图片批量下载 9.0.0.2246 - 强大的百度图片下载器" href="http://www.portablesoft.org/baidu-image-downloader/">百度图片批量下载 9.0.0.2246 - 强大的百度图片下载器</a></li>
+						</ul>
+		</div>
+	</div>
+	<div class="sidebar-box-wrap">
+		<div class="sidebar-box">
+		<h4>软件更新</h4>
+			<ul>
+							<li><a title="网盘自动下载管理器 - Mipony 2.2.3 便携版" href="http://www.portablesoft.org/mipony/">网盘自动下载管理器 - Mipony 2.2.3 便携版</a></li>
+							<li><a title="网易云音乐PC版 1.5.0 Build 76350 绿色版 - 专注于发现与分享音乐" href="http://www.portablesoft.org/netease-cloudmusic/">网易云音乐PC版 1.5.0 Build 76350 绿色版 - 专注于发现与分享音乐</a></li>
+							<li><a title="Foxmail 7.2.6.37 中文绿色版 - 简捷易用的邮件客户端" href="http://www.portablesoft.org/foxmail/">Foxmail 7.2.6.37 中文绿色版 - 简捷易用的邮件客户端</a></li>
+							<li><a title="免费的 SSH 客户端 - Xshell 5 Build 0446 中文绿色便携版" href="http://www.portablesoft.org/xshell/">免费的 SSH 客户端 - Xshell 5 Build 0446 中文绿色便携版</a></li>
+							<li><a title="Xshell 5 Build 0446 + Xftp 5 Build 0436 整合版 - 免费的 SSH/FTP/SFTP 客户端" href="http://www.portablesoft.org/xshell-xftp-integrated/">Xshell 5 Build 0446 + Xftp 5 Build 0436 整合版 - 免费的 SSH/FTP/SFTP 客户端</a></li>
+							<li><a title="EagleGet 2.0.2.1 便携版 - 猎鹰高速下载工具，在线视频下载利器" href="http://www.portablesoft.org/eagleget/">EagleGet 2.0.2.1 便携版 - 猎鹰高速下载工具，在线视频下载利器</a></li>
+						
+			</ul>
+		</div>
+	</div>
+	<div class="sidebar-box-wrap">
+		<div class="sidebar-box">
+		<h4>手气不错</h4>
+			<ul>
+							<li><a title="FLVCD 硕鼠 0.4.7.7 绿色便携版 - 最好的在线视频解析、下载工具" href="http://www.portablesoft.org/flvcd-portable/">FLVCD 硕鼠 0.4.7.7 绿色便携版 - 最好的在线视频解析、下载工具</a></li>
+							<li><a title="免费的 SSH 客户端 - Xshell 5 Build 0446 中文绿色便携版" href="http://www.portablesoft.org/xshell/">免费的 SSH 客户端 - Xshell 5 Build 0446 中文绿色便携版</a></li>
+							<li><a title="微博急简 WC 6.0 - 提供最干净清爽的微博界面" href="http://www.portablesoft.org/weibo-wc/">微博急简 WC 6.0 - 提供最干净清爽的微博界面</a></li>
+							<li><a title="115解析工具：强制下载115网盘影视资源" href="http://www.portablesoft.org/115u-downloader/">115解析工具：强制下载115网盘影视资源</a></li>
+							<li><a title="CCTV网络电视：CCTV Box绿色免费版" href="http://www.portablesoft.org/cctv-box/">CCTV网络电视：CCTV Box绿色免费版</a></li>
+							<li><a title="眼不见心不烦 1.1.6.1 - 新浪微博非官方功能增强脚本，屏蔽版面模块与任意关键词" href="http://www.portablesoft.org/weibo-content-filter/">眼不见心不烦 1.1.6.1 - 新浪微博非官方功能增强脚本，屏蔽版面模块与任意关键词</a></li>
+						</ul>
+		</div>
+	</div>
+	<div class="sidebar-box-wrap">
+		<div class="sidebar-box">
+			<h4>推荐下载</h4>
+			<ul>
+													<li>
+					<a title="Public DNS Server Tool 0.91" href="/down/874/">Public DNS Server Tool 0.91 绿色版</a>
+				</li>
+																<li>
+					<a title="Joost 1.1.8" href="/down/313/">Joost 1.1.8 绿色版</a>
+				</li>
+																<li>
+					<a title="网易云音乐 1.5.0 Build 76350" href="/down/3555/">网易云音乐 1.5.0 Build 76350 绿色版</a>
+				</li>
+									
+													<li>
+					<a title="Mipony 2.2.3" href="/down/1859/">Mipony 2.2.3 绿色版</a>
+				</li>
+																<li>
+					<a title="网易云音乐 1.5.0 Build 76350" href="/down/3555/">网易云音乐 1.5.0 Build 76350 绿色版</a>
+				</li>
+																<li>
+					<a title="Foxmail 7.2.6.37" href="/down/3351/">Foxmail 7.2.6.37 绿色版</a>
+				</li>
+									</ul>
+		</div>
+	</div>
+	<div class="sidebar-box-wrap">
+		<div class="sidebar-box">
+			<h4>热门标签</h4>
+			<div style="padding:15px;">
+				<a href='http://www.portablesoft.org/tags/google/' class='tag-link-1354' title='11 topics' style='font-size: 11.926829268293pt;'>google</a>
+<a href='http://www.portablesoft.org/tags/%E5%90%8D%E7%89%87%E8%AE%BE%E8%AE%A1/' class='tag-link-336' title='6 topics' style='font-size: 8pt;'>名片设计</a>
+<a href='http://www.portablesoft.org/tags/%E4%B8%8B%E8%BD%BD/' class='tag-link-1356' title='46 topics' style='font-size: 22pt;'>下载</a>
+<a href='http://www.portablesoft.org/tags/%E6%B5%8F%E8%A7%88%E5%99%A8/' class='tag-link-1392' title='10 topics' style='font-size: 11.243902439024pt;'>浏览器</a>
+<a href='http://www.portablesoft.org/tags/%E9%9F%B3%E4%B9%90/' class='tag-link-65' title='30 topics' style='font-size: 18.926829268293pt;'>音乐</a>
+<a href='http://www.portablesoft.org/tags/%E9%9F%B3%E9%A2%91%E5%BD%95%E5%88%B6/' class='tag-link-489' title='7 topics' style='font-size: 8.8536585365854pt;'>音频录制</a>
+<a href='http://www.portablesoft.org/tags/%e6%80%9d%e7%bb%b4%e5%af%bc%e5%9b%be/' class='tag-link-2113' title='8 topics' style='font-size: 9.7073170731707pt;'>思维导图</a>
+<a href='http://www.portablesoft.org/tags/%E7%BD%91%E7%9B%98/' class='tag-link-1424' title='11 topics' style='font-size: 11.926829268293pt;'>网盘</a>
+<a href='http://www.portablesoft.org/tags/%E5%85%8D%E8%B4%B9/' class='tag-link-1357' title='6 topics' style='font-size: 8pt;'>免费</a>
+<a href='http://www.portablesoft.org/tags/%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE%E5%B7%A5%E5%85%B7/' class='tag-link-583' title='7 topics' style='font-size: 8.8536585365854pt;'>思维导图工具</a>
+<a href='http://www.portablesoft.org/tags/%e6%a1%8c%e9%9d%a2%e7%be%8e%e5%8c%96/' class='tag-link-1647' title='7 topics' style='font-size: 8.8536585365854pt;'>桌面美化</a>
+<a href='http://www.portablesoft.org/tags/%E6%92%AD%E6%94%BE%E5%99%A8/' class='tag-link-671' title='10 topics' style='font-size: 11.243902439024pt;'>播放器</a>
+<a href='http://www.portablesoft.org/tags/chrome/' class='tag-link-2395' title='7 topics' style='font-size: 8.8536585365854pt;'>chrome</a>
+<a href='http://www.portablesoft.org/tags/%e4%b8%aa%e4%ba%ba%e7%9f%a5%e8%af%86%e7%ae%a1%e7%90%86/' class='tag-link-1786' title='6 topics' style='font-size: 8pt;'>个人知识管理</a>
+<a href='http://www.portablesoft.org/tags/vps/' class='tag-link-1754' title='8 topics' style='font-size: 9.7073170731707pt;'>VPS</a>			</div>
+		</div>
+	</div>
+</div><!-- /sidebar -->
+<div class="clear"></div>
+</div><!-- /wrap -->
+<div id="copyright">
+<p>&copy; Copyright 2008-2015 精品绿色便携软件 &#124; <a href="/sitemap.xml">站点地图</a> &#124; <a target="_blank" ref="nofollow" href="http://www.miitbeian.gov.cn/">京ICP备14035580号</a> &#124; 京公网安备11010502026176</p>
+<p>Powered by <a rel="nofollow" href="http://wordpress.org/" target="_blank" title="WordPress">WordPress</a> &amp; <b><a rel="nofollow" href="https://mos.meituan.com/r/3ac0a5977d" title="美团云服务器" target="_blank">美团云服务器</a></b> &amp; <a rel="nofollow" href="http://www.linode.com/?r=ebff47bacacf026f6dd8eac79f6779d3ff6da058" title="高性能 SSD 服务器" target="_blank">Linode VPS</a></p>
+<div id="back-to-top"><a class="scrollto" href="#">Back To Top &#710;</a></div><!-- /back-to-top -->
+</div><!-- /copyright -->
+<script>window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"1","bdSize":"32"},"share":{}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</body>
+</html>
