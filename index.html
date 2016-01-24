@@ -1,12 +1,12 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html>
 
 <head>
     <meta charset="utf-8" />
     <title>PHP Code Snippets Website</title>
     <style>
-    .markdown-preview {
-        font-family: Consolas, 'Microsoft YaHei', 'Helvetica Neue', Helvetica, 'Segoe UI', Arial, freesans, sans-serif;
+    .body {
+        font-family: Consolas, 'Microsoft YaHei';
         line-height: 1.6;
         overflow: auto;
         box-sizing: border-box;
@@ -14,99 +14,76 @@
         word-wrap: break-word;
         width: 1000px;
         margin: 0 auto;
+        font-size: 1.25em;
+        color: #c8ccd5;
+        background-color: #2f333d;
     }
     
-    .markdown-preview >:first-child {
-        margin-top: 0!important;
-    }
-    
-    .markdown-preview >:last-child {
-        margin-bottom: 0!important;
-    }
-    
-    .markdown-preview h1,
-    .markdown-preview h3 {
+    .body h1,
+    .body h3 {
         font-weight: 700;
         position: relative;
         margin-top: 1em;
         margin-bottom: 16px;
         cursor: text;
-        -webkit-font-smoothing: antialiased;
     }
     
-    .markdown-preview h1 {
+    .body h1 {
         font-size: 2.25em;
         line-height: 1.2;
         padding-bottom: .3em;
         border-bottom-width: 1px;
         border-bottom-style: solid;
+        color: inherit;
+        border-color: #181a1f;
     }
     
-    .markdown-preview h3 {
+    .body h3 {
         font-size: 1.5em;
         line-height: 1.43;
     }
     
-    .markdown-preview ul {
+    .body ul {
         margin-top: 0;
         margin-bottom: 16px;
         padding-left: 2em;
     }
     
-    .markdown-preview code {
+    .body code {
         font-size: 85%;
         margin: 0;
         margin-right: 3px;
         margin-left: 3px;
         padding: .2em 0;
         border-radius: 3px;
+        font-family: Consolas, 'Liberation Mono', Courier, monospace, 'Microsoft YaHei';
+        color: #f3f4f6;
+        border-color: #181a1f;
+        background-color: #3e4451;
     }
     
-    .markdown-preview code::after,
-    .markdown-preview code::before {
-        content: ' ';
+    .body code::after,
+    .body code::before {
+        content: ' ';
         letter-spacing: -.2em;
     }
     
-    .markdown-preview > h1:first-child {
+    .body > h1:first-child {
         margin-top: 0;
         padding-top: 0;
     }
     
-    .markdown-preview ul li >:first-child {
+    .body ul li >:first-child {
         margin-top: 0;
     }
     
-    .markdown-preview ul > li {
+    .body ul > li {
         list-style-type: disc;
-    }
-    
-    .markdown-preview {
-        font-size: 1.25em;
-        color: #c8ccd5;
-        background-color: #2f333d;
-    }
-    
-    .markdown-preview h1 {
-        color: inherit;
-        border-color: #181a1f;
-    }
-    
-    .markdown-preview code {
-        font-family: Consolas, 'Liberation Mono', Courier, monospace;
-        color: #f3f4f6;
-        border-color: #181a1f;
-        background-color: #3e4451;
-        background-clip: padding-box;
-    }
-    
-    .markdown-preview pre.editor-colors::shadow .line.cursor-line {
-        background-color: transparent;
     }
     </style>
 </head>
 
-<body class='markdown-preview'>
+<body class='body'>
     <h1 id="codeshare">PHP Code Snippets Website</h1>
     <h3 id="intro">Intro</h3>
     <ul>
