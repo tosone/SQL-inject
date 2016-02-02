@@ -1,5 +1,5 @@
 <script type="text/javascript">
-	$(".tag").click(function(){
+	$(".ctag").click(function(){
 		var url = window.location.protocol + "//" + window.location.host + "/searchTag.php";
 		window.location.href = url + "?tag=" + $(this).data("tag");
 	});
@@ -18,10 +18,11 @@
 		var $this = $(this);			
 		$.get("/action/delete.php", {id: $(this).data("id")}, function(data){
 			if(data.code == 500) {
-				alert("删除失败！");
+				swal("删除失败！");
 			} else if(data.code == 200) {
-				$this.parent().slideUp();
-				alert("删除成功！");
+				$this.parent().slideUp('slow');
+				swal("删除成功！");
+				window.location.href="/";
 			}
 		},'json');
 	});

@@ -5,6 +5,8 @@
     <? include('_include/head.php'); ?>
     <script type="text/javascript" src="/javascripts/prettify.js"></script>
     <link rel="stylesheet" href="/stylesheets/index.css" />
+    <link rel="stylesheet" href="/stylesheets/sweetalert.css">
+    <script type="text/javascript" src="/javascripts/sweetalert.min.js"></script>
 </head>
 <body onload="prettyPrint()">
 	<div class="container">
@@ -19,13 +21,13 @@
 	    	if($result = $sqlite3db->query('select * from code where intro like "%'. $_GET["keywords"] .'%" order by [timestamp] limit '. PAGE_NUM .' offset '. (PAGE_NUM * ($page - 1)))){
 		    	while($row = $result->fetchArray()){
 		    		echo('<div class="m_box">');
-		    		echo('<span class="editor_btn" data-id="' . $row["id"] . '">编辑</span>');
+		    		// echo('<span class="editor_btn" data-id="' . $row["id"] . '">编辑</span>');
 		    		echo('<span class="content_btn" data-id="' . $row["id"] . '">查看</span>');
 		    		echo('<p>'. $row["intro"] .'</p>');
 		    		echo("<pre class=\"prettyprint linenums\">" . base64_decode($row["code"]) . "</pre>");
 		    		echo('<div class="m_box_bottom clearfix"><div class="tags"><img src="./images/tag.png" alt="tag"/>');
 		    		foreach (explode(";",$row["tags"]) as $tag) {
-		    			echo('<a href="javascript:void(0);" class="tag" data-tag="'. $tag .'">'. $tag .'</a>');
+		    			echo('<a href="javascript:void(0);" class="ctag" data-tag="'. $tag .'">'. $tag .'</a>');
 		    		}
 		    		echo('</div><div class="timestamp">'. date('Y/m/d H:i:s', $row["timestamp"]) .'</div></div>');
 		    		echo('</div>');

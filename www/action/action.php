@@ -10,7 +10,7 @@
 		    } else {
 		    	$time = time();
 				$intro = $_POST["intro"];
-				$code = $_POST["code"];
+				$code = base64_encode($_POST["code"]);
 				$tags = $_POST["tags"];
 				$sqlite3db = new SQLite3('../db.db');
 				if($type == 0) {

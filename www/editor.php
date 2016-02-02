@@ -3,8 +3,9 @@
 <head runat="server">
     <title>Tosone的微博客</title>
     <? include('_include/head.php'); ?>
-    <script type="text/javascript" src="/javascripts/base64.min.js"></script>
     <link rel="stylesheet" href="/stylesheets/editor.css" />
+    <link rel="stylesheet" href="/stylesheets/sweetalert.css">
+    <script type="text/javascript" src="/javascripts/sweetalert.min.js"></script>
 </head>
 <body class="container">
 	<?
@@ -57,28 +58,27 @@
 				window.location.href = url + "?keywords=" + $("#search_input").val();
 		    }
 		});
+		function escapeHtml(unsafe) {
+		  return unsafe
+		      .replace(/&/g, "&amp;")
+		      .replace(/</g, "&lt;")
+		      .replace(/>/g, "&gt;")
+		      .replace(/"/g, "&quot;")
+		      .replace(/'/g, "&#039;");
+		}
 		$("#submit").click(function(){
 			var intro = $("#intro").val();
-			var code = Base64.encode($("#code").val());
+			var code = escapeHtml($("#code").val());
 			var tags = $("#tags").val();
-			if(intro == "" || code == ""){
-				layer.open({
-					type: 0,
-				    title: '失败',
-				    content: '介绍或者代码不能为空！',
-				    shadeClose: true
-				});
+			if(intro == "" || code == "" || tags == "") {
+				swal("介绍、代码或标签不能为空！");
 			} else {
-				$.post("/action/action.php", {<?=isset($_GET["id"])?("type: ". $_GET["id"] .","):""?> intro: $("#intro").val(), code: Base64.encode($("#code").val()), tags: $("#tags").val()}, function(data){
+				console.log(escapeHtml($("#code").val()));
+				$.post("/action/action.php", {<?=isset($_GET["id"])?("type: ". $_GET["id"] .","):""?> intro: $("#intro").val(), code: code, tags: tags}, function(data){
 					if(data.code == 500) {
-						layer.open({
-							type: 0,
-						    title: '失败',
-						    content: '添加或者修改失败！',
-						    shadeClose: true
-						});
+						swal("添加或者修改失败！");
 					}
-					if(data.code == 200) window.location.href = "index.php";
+					if(data.code == 200) window.location.href = "/";
 				}, 'json');
 			}
 		})
