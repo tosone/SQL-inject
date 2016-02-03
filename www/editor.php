@@ -67,14 +67,14 @@
 		      .replace(/'/g, "&#039;");
 		}
 		$("#submit").click(function(){
-			var intro = $("#intro").val();
+			var intro = escapeHtml($("#intro").val());
 			var code = escapeHtml($("#code").val());
-			var tags = $("#tags").val();
+			var tags = escapeHtml($("#tags").val());
 			if(intro == "" || code == "" || tags == "") {
 				swal("介绍、代码或标签不能为空！");
 			} else {
 				console.log(escapeHtml($("#code").val()));
-				$.post("/action/action.php", {<?=isset($_GET["id"])?("type: ". $_GET["id"] .","):""?> intro: $("#intro").val(), code: code, tags: tags}, function(data){
+				$.post("/action/action.php", {<?=isset($_GET["id"])?("type: ". $_GET["id"] .","):""?> intro: intro, code: code, tags: tags}, function(data){
 					if(data.code == 500) {
 						swal("添加或者修改失败！");
 					}

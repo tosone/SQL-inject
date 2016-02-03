@@ -1,2 +1,4 @@
 [0203/000856:ERROR:main_dll_loader_win.cc(249)] Could not find exported function RelaunchChromeBrowserWithNewCommandLineIfNeeded
 [0203/000925:ERROR:main_dll_loader_win.cc(249)] Could not find exported function RelaunchChromeBrowserWithNewCommandLineIfNeeded
+[0203/161116:ERROR:main_dll_loader_win.cc(249)] Could not find exported function RelaunchChromeBrowserWithNewCommandLineIfNeeded
+[0203/161147:ERROR:main_dll_loader_win.cc(249)] Could not find exported function RelaunchChromeBrowserWithNewCommandLineIfNeeded
